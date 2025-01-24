@@ -1,0 +1,19 @@
+---
+title: "Welcome to the S-I-S"
+site: bookdown::bookdown_site
+documentclass: book
+output:
+  html_document:
+    toc: true
+    toc_float:
+      toc_collapsed: true
+    toc_depth: 3
+    number_sections: true
+    theme: lumen
+date: "Last edited on `r format(Sys.time(), '%d %B, %Y')`"
+---
+
+[School](https://dle.plymouth.ac.uk/course/view.php?id=66067) - [Programme](https://dle.plymouth.ac.uk/course/view.php?id=38727) - [Gradbook](https://gradbook.plymouth.ac.uk/) - [RoomBooking](https://resourcebooker.plymouth.ac.uk/) - [Timetable](https://timetables.plymouth.ac.uk/) - [Panopto](https://plymouth.cloud.panopto.eu/) - 
+[TechOffice](https://psy.plymouth.ac.uk) - 
+[Primo](https://primo.plymouth.ac.uk) - 
+[SONA](https://uopsop.sona-systems.com/) ![](header2.png) This site preserves the former School Information Site, codesigned with new staff to provide a single source of information about the School of Psychology at the University of Plymouth.

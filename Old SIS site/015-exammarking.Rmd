@@ -1,0 +1,68 @@
+# Examination marking
+(updated November 2023)
+
+## The examination
+
+Most students sit exams in the same main venue. Some with modified assessment provisions (extra time, rest breaks, small rooms) sit exams in other locations. A few more will be completing Alternative Assessment (the same exam, starting at the same time, but in a less formal setting and with flexible timings). At the end of the examinations, all papers are collected and taken to the Examinations Office, where they are collated.
+
+## After the examination
+
+The day after the examination, the collated papers are brought to the School of Psychology, or Fiona Trembath collects them (sometimes this can happen later the same day for morning examinations). They are then sorted into question sets for each marker, who is emailed and asked to collect them.
+
+## Marking
+
+Exam scripts are marked using the LETTER GRADES F- to A+, with N reserved for answers ‘not worthy of a mark’ where nothing more than the essay title has been written. The mark is written on the front of the script. No other annotations need be made (legally, students can ask to see their marked scripts so bear this in mind). No personal excel files or other records should be made.
+
+## Pre-marking moderation
+
+The first three marked scripts for each marker on a question (six if the marker is in their first year of marking for the School) need to be moderated by the Academic setting the question (or the Module Leader). They should be scanned digitally (e.g., using the copier in PSQ B222), renamed with the SRN and Question number, and the PDF files emailed to the moderator.
+
+The moderation needs to be recorded on the Moderation Form, which should be uploaded to the External Examiner folder on the DLE. The scanned scripts that were moderated should also be uploaded.
+
+## Mark Entry
+
+Once marking of a question is complete the paper scripts should be returned to Fiona. For online exams, send Fiona an email to say which question has been marked. Fiona and a team of mark entry assistants then enter every SRN and Grade into a CSV file for each question, and download grading sheets from online examinations from the DLE.
+
+## Mark Collation
+
+A Markdown script CollatoR.rmd then processes the CSV files. It does the following:
+
+* converts all letter grades to percentages
+
+* checks that all percentage marks match categorical grade values
+
+* flags students who have marks from too many questions
+
+* identifies incorrectly entered SRNs
+
+* lists students with no marks or too few marks
+
+* applies any moderation to any markers’ files (moving grades up or down)
+
+* if multiple mark files per question, run oneway ANOVA to compare files
+
+* report distribution of marks and descriptives for each question
+
+* where necessary, combine marks from different questions into a section mark, and produce statistics
+
+* combine marks from different questions into an overall exam mark, and report statistics
+
+* save CSV files for upload to DLE for each Question, and for overall Examination mark
+
+* produces an HTML (or word, or PDF) document summarising the examination marks, for upload to the External Examiner folder on the DLE
+
+This script is run iteratively, to allow for entry errors to be corrected, and for moderation to be applied, until the Module Leader is satisfied with the final statistics.
+
+## After mark collation
+
+The CSV files are uploaded by the Assessments Officer or the Module Leader to the DLE.
+
+When the overall examination mark is released (without notifying students) it will copy the overall exam mark to UnitE. Once the overall mark is in UnitE, it is visible to students via the Portal. Karen Barnett can be notified that marking of this exam is complete.
+
+When the individual Questions are released to students, they will be able to see their individual question marks on the DLE. Students should be emailed before this happens to let them know that the marks will be released.
+
+The report from the CollatoR should be uploaded to the External Examiner folder, along with moderation reports and sample scripts.
+
+Once the External Examiner folder is complete, the Examiner will be asked to scrutinise the assessment.
+
+The module leader will report to the Subject Assessment Board in June on the examination and answer any questions raised by the external examiners.

@@ -1,0 +1,29 @@
+# Releasing Marks
+
+## Have the final marks been uploaded? 
+ 
+If the marks are on the DLE, skip this section. 
+ 
+If you have adjusted the marks and need to upload them, upload the modified grading worksheet. Be sure it is in comma-separated .csv format. 
+ 
+From the Grading Action drop menu, choose “Upload Grading Worksheet” and submit the .csv file with the adjusted marks. Be sure to check the box about overwriting marks. 
+ 
+If you are combining marks from different assignments, you will need to upload them to a ‘hidden assignment’ that has been set up for you. First reveal Identities in each assignment, and the hidden assignment. Then download all the gradesheets. Combine the marks and transfer them to the gradesheet from the hidden assignment. Finally, upload this to the hidden assignment. (You can use the gradebook to combine marks safely within the DLE but you still need to download the combined mark, merge with the hidden assignment, and reupload). 
+ 
+## Marks release and upload to UnitE 
+ 
+1. Click the DLE submission link, then view all submissions. 
+ 
+2. At the top drop-down menu (where is says “separate groups”), select “All participants” -  this might already be selected.   If not already done so: from the Grading Action drop down menu at the top, select "Reveal Student Identities" 
+ 
+3. Scroll to the bottom of the page (command + down arrow). Under Options, be sure the “Assignments per page” is set to “All”. Now scroll back to the top of the page (command + uparrow). Just above where the rows of student records start, on the left, check the box “Select”. This will select every student record.  
+ 
+4. Back at the bottom of the page, from the “With selected…” drop down menu, choose “Set marking workflow state (Release grades and feedback)” 
+ 
+5. Hit Go. (you will be asked to confirm, then continue) 
+ 
+6. On the next page that appears, from the “marking workflow” drop down menu at the bottom, select “Release” 
+ 
+7. Notify students should be set to  “Yes" for all assignments that contain submissions and feedback, but "No" for 'hidden' combined marks assignments without submissions or feedback.
+ 
+8. Save Changes

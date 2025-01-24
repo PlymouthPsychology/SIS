@@ -1,0 +1,294 @@
+# Teaching Overview
+
+This page presents an overview of the way that Teaching works within the School of Psychology.
+It is structured in the same way as the main page, and there are no links here.
+To find out who is currently responsible for a role, consult the workload allocation model or the Quick Links to Modules link.
+
+## Lectures and workshops
+
+We use Moodle to provide materials online, and it is known as the Digital Learning Environment, or DLE.
+Each programme and module has its own site, and those you teach on shuld be displayed on your home page on the DLE.
+The **Quick Link** lists all modules by programme and year, along with the current module leader.
+Previous years versions are also accessible.
+The School currently runs one large undergraduate program (with three 'Majors' and one 'Minors' combined honours courses), a Foundation Year, the 'integrated masters' MPsych and MSc programs, a conversion MSc, a DClin program, and a Clinical Associate Psychologist Scheme (CAPS).
+The **Overview** gives details on the structure of these courses.
+Each Programme has a *Programme Leader, PL,* and each Module has a *Module Leader, ML.*
+
+DLE sites renew each year.
+Module Leaders need to add all staff teaching on their module to their Module on the DLE using the role 'Teachers'.
+This must be done each year.
+Past years remain available for staff to access and content can be copied and rolled-over.
+
+Lecture material must be available to students 48h before the lecture.
+Powerpoint files have to be uploaded on the [DLE](https://dle.plymouth.ac.uk/) module page.
+Upload the same Powerpoint file that you use for the lecture.
+If there are 'answer' slides you do not wish students to see, then you can upload a truncated or redacted version before the lecture and replace it afterwards.
+Documents uploaded to the DLE are scanned for accessibility, and if the little gauge is red you should click it to find out why, and make amends.
+
+To contact all students on a module, use the Announcement feature on the DLE site.
+This will send an email to all people registered for the module, and also create a permanent record of the message for people to look at later.
+Several email aliases exist to allow us to email all students in a stage, regardless of programme.
+These are created automatically and membership cannot be inspected: psystage1, psystage 2, psystage3 (placement), psystage4, psystage5 (MPsych final year), psymsc (all three programs), psyphd (postgrads), psyalumni (last year's graduates) - all of these require the domain @uopnet.plymouth.ac.uk but should be autocompleted by correctly configured email clients.
+
+The **University Teaching and learning guidance and resources** pages contains a lot of information and detailed guidelines on how to teach and support students, including on how to restructure conventional delivery for blended face-to-face and online delivery.
+
+We encourage all staff to become members of the Higher Education Academy (and this may be a contractual requirement for new staff).
+You can qualify for membership by applying for accreditation form the University's **Teaching Development Framework**.
+
+As part of the school's Athena SWAN activities, we encourage people to deliver inclusive teaching reflecting the diversity of contributions to Psychology, and guidance is provided in the **Decolonising teaching** page.
+
+For copyright reasons, we must not upload PDFs of papers to the DLE.
+Reading lists should be created using **Leganto**, including links to online versions of the material via **Primo**, the Library catalogue.
+It is essential to make links this way, so that the University logs accesses and does not cancel our journal subscriptions.
+The ML should create a Leganto list for each member of staff on their module.
+The ML will be the 'Instructor' and staff will be 'Collaborators'.
+Reading lists can be found on the right of the DLE module page.
+
+All Lectures are videorecorded using **Panopto** using the software installed on the PCs in teaching rooms.
+Once a lecture theatre recording has been made, you will receive an email saying it is available to be edited (usually within an hour of a session ending).
+Follow the link to edit the recording (i.e., remove 'dead time' at the start, middle and end of the recording, any copyrighted videos shown, and any sensitive discussions with students that were captured).
+The edited version must then be Approved before students can see it.
+If something goes wrong, and a recoding is lost or approval gets stuck, then contact [avrefreshandcapture\@plymouth.ac.uk](mailto:avrefreshandcapture@plymouth.ac.uk).
+Each recording is associated with a single Module.
+Where a session is shared between different modules or programmes, a copy must be made and moved to the other module site.
+
+To conduct in-class quizzes, or polls or other interactive exercises, we use **Mentimeter**.com which students can access using phones or browsers.
+
+If you want to use any broadcast media (TV or Radio) in your teaching, or want to archive your own appearances for future use, then try out the **Box of Broadcasts**, which gives educational access to all broadcast media.
+
+Students can opt to study their second year abroad at another University.
+Details about this scheme are included in the **Internationalisation** web pages.
+
+If you are inviting an external speaker into a lecture or other activity, you have to complete a **Risk Form**.
+
+## PsyLab and tutorials
+
+Most modules are supported by Experiential Learning ([**PsyLab**](https://psy.plymouth.ac.uk/psylab)) activities and small group tutorials.
+Each PsyLab activity has a deadline to encourage students to complete them in good time, but if students miss these they can ask tutors to give extensions within the PsyLab activities pages.
+**NB - If students do not complete enough PsyLab activities they Fail the module regardless of coursework and exam marks**.
+
+Each new student is assigned to a tutorial group of 6-8 students in September of their first year, and this group usually stays with the same tutor throughout the programme.
+Most staff are assigned two new stage 1 tutorial groups each year, so have six groups in total, and between 30-40 tutees.
+The tutorial schedule and **tutorial allocations** are overseen by the Senior Tutor, using a system called GROups Of Tutees (GROOT).
+You can also see a list of your tutees in **S4**, the interface to a variety of University databases.
+There is a Quick link at the top of the section.
+
+A different stage will be scheduled to have an academic tutorial associated with a module each week, most weeks during the first twelve weeks in a semester.
+Tutorials are not timetabled, but should be arranged by the tutor in negoitiation with their tutees.
+Fridays are the default days and are kept as free as possible from other sessions to make time available for tutorials.
+Materials supporting the content of each tutorial will be provided by the relevant ML or the ST a week or two before the tutorial.
+These will also be uploaded to a hidden section of the Programme DLE page.
+Some staff have offices large enough to hold the tutorials in their own rooms.
+Others need or prefer to use a teaching room, which should be booked using the University Room Booking site.
+**Uni Room Capacities and Room Booking** links to a list of rooms around the campus and the '**Web Room Bookings**' system which you can use to reserve a room for a meeting.
+We are not supposed to use this system to book teaching activites, but you can use 'Student Meeting' as a reason.
+In using this system, the minimum info you need to enter is size, Room Type (WRB General Rooms probably), a date, and times.
+Your request will be acknowledged and then confirmed in two emails.
+
+### Specific tasks to be performed before the tutorial:
+
+-   email your tutees to remind them of the time and place of the tutorial,
+-   book a room if you cannot run the tutorial in your office.
+-   read the materials supporting the tutorial,
+-   prepare the session (printing of material, prepare powerpoint from the script, check video links work)
+
+As well as academic tutorials, all students should receive pastoral **personal tutorials (PTs)** at least once a semester where you review and plan and discuss personal issues affecting your tutee's academic performance.
+These are an important part of motivating students and encouraging them to achieve their best, and give you a chance to build rapport with your tutees and to help them feel a part of the school.
+PT meetings should ideally last a minimum of fifteen minutes and as one-to-one sessions can be held in your office.
+Staff use a variety of approaches to scheduling these, from sign up lists on doors to online systems such as doodle.com.
+PT meetings require a significant committment in time, as 40 tutees will take up ten hours, so you should schedule these carefully to ensure that you have the time to give each student equal care and attention.
+
+During or immediately after both academic and personal tutorials you must log attendance in **S4**.
+If a student was absent and has contacted you before or within 24 hours after a tutorial to explain then you can mark them as excused.Attendance is not actively monitored by anyone other than the tutor, but if concerns are later raised about engagement this will provde useful information.
+
+## Supporting Students
+
+### Personal Tutoring
+
+As well as providing an excellent learning experience for all students, staff need to provide high standards of academic and pastoral support.
+As a personal tutor you will provide an important support role throughout your personal tutees' time at University, particularly during their first weeks, through the degree course and in any challenging times your students may experience.
+This web page links to resoucres and examples and guides about being an effective tutor.
+\## Supporting Students
+
+If you have concerns about a tutee or other student you shouyld visit this page for details about processes and support you can call on.
+The *Support the Student* leaflet is a ‘cheat sheet’ for signposting to the three main channels of University-level student support; *Mental Health Emergencies infographic* is a flowchart for dealing with concerns about the wellbeing of a student (with contact numbers etc).
+Note that from poutside, internal phone numbers need 01752 58 before the extension.
+The number for Security from an external phone (e.g., your mobile) is 01752 58 3333.
+
+### Reporting bullying or harassment
+
+If a student or member of staff experiences bullying or harassment, this reporting form allows them or you to report it for the counselling servrices to follow up.
+The form can be filled in anonymously, for monitoring purposes, or with contact details if you want a response.
+
+### Student Support resources
+
+You have a pastoral and duty-of-care responsibility for your tutees, and for any student who discloses a problem or issue to you.
+However, it is important that you do not take it upon yourself to act as a counsellor for students, as doing so may discourage them from accessing the full range of support offered by the University.
+These pages give guidance on how to **provide effective support for their wellbeing** by acting as a gateway to the professional support services offered by the University.
+
+### Student Support Documents
+
+The Student Support Document provides information about a student’s disability (including mental health, long term medical conditions, specific learning difficulties etc) and their support requirements, including Modified Assessment Provisions (MAPs) and other reasonable adjustments.
+This page gives an overview.
+Students' SSDs can be acces via their record on S4 (see Central Data, below).
+
+### Student Conduct Resoureces
+
+If you have a problem with any student's conduct (abuse, a complaint, misconduct, etc) then consult this guide for sample emails and who to ask for help and advice.
+
+### Extenuating Circumstances
+
+If a student has a problem that affects their work, prevents them from submitting an assignment, or sitting an exam, they need to apply for **Extenuating Circumstances (ECs)**.
+This page links to the current policy explaining what counts and what does not, and the link below provides an online form that the student needs to complete.
+No academic staff can authorise or offer ECs under any circumstances; only this route is acceptable.
+When ECs are granted, the ML and the student will receive an email.
+Ususally, no action is needed by the ML.
+Valid claims will be given up to ten working days extension, or be valid for 'non submission', which usually means that the student can complete the assessment in the referral period as a 'first attempt' and so without being capped at the pass mark.
+Students who have a long term or chronic illness can register this with a **Long Term Illness** form, again with evidence, and this removes the need to provide evidence on future EC claims.
+
+Students with disabilities or other conditions affecting their ability to attend, study or complete forms of assessment can be issued with a **Student Support Document** that can set out things like '**modified assessment provisions**' or ask staff to make allowance for the student in lectures, or workshops.
+These will be copied to the tutor and reelvant module leaders, and usually no further action is needed as our programme design takes these things into account.
+An exception may be for presentations or posters, where students with anxiety can be asked to submit a recording instead (e.g., a narrated powerpoint talk).
+
+The **Careers Service** (myCareers) provde a rich set of online and face to face resources to help students improve their employability, including CV writing, interviewing, assessment tests.
+They also advertise placement and job opportunities.
+
+If your students need help improving their writing, then you should direct them to the **Writing Café**, currently online but in normal times a place where mentors can help with everything from grammar, sentence structure and word choice through to essay planning and dissertation organisation.
+They are not subject experts, but they know how to help studetns write simply and clearly.
+
+
+### Timetables
+
+All teaching sessions except tutorials are scheduled on the online Timetable, by the Timetabling office working with the school's **Timetable Coordinator (TC).** The online timetable allows you to view your own teaching, or to view specific modules, programmes and other staff.
+There is also a Location view so you can see what is scheduled in specific rooms.
+
+As this is complex, the TC prepares '**simple timetables**' to give staff and students a quick overview of each semester, to help in planning other activities, student meetings, office hours and tutorials.
+These are very much not definitive.
+
+When timetabling create a session, they have to also create a classlist which defines the students who should attend it.
+These are not always identical to the registered students, to resolve clashes.
+There are also issues with repeated sessions e.g., workshops, where students are divided between sessions arbitrarily.
+You can see the students that the timetable thinks are associated with a session from the **Classlists** site.
+If a student is not on the classlist, the session is not on their timetable, and they cannot use the attendance monitoring code in the app.
+
+The timetabling process begins in February preceding a session, and the final timetable is published in August (Semester 1) and September (Semester 2).
+After this, any corrections or alterations require a **change request form** filling and take time to process.
+Very good reasons need to be provided: the timetable takes precedence over everythng else, so do not arrange to do anything when you already have teaching scheduled.
+Anything that changes the time of a session for students requires approval from the Dean.
+
+If you really cannot teach a scheduled session, you should try to arrange a swap with another member of staff within the module.
+This can be processed without Dean's approval.
+
+**If you are ill and cannot deliver teaching**, notify the School Office as soon as possible so that students can be informed and do not need to travel.
+**Teaching cannot be rescheduled**, so your ML will decide what to do to make up the missing material.
+A previous year's Panopto recording, if available, could be posted in lieu of a lecture, or two future sessions could be condensed into one.
+
+All academics should offer students two one-hour '**office hours**' sessions each week, when they can guarantee to be in their office so students can find them without making a prior appointment.
+The **booking form** is on the School DLE page..
+
+In line with the **Flexible Work Policy**, staff who are part-time or have family or caring responsibilities can register these as **Constraints** on their availability, with approval from the Head of School.
+These must be renewed each year.
+
+## Placement Year
+
+All undergraduate students can optionally apply to take a **placement year** between their second (Stage 2) and final (Stage 4) year for work experience and obtain a Certificate of Practical and Industrial Experience.
+Around a third of our students take this option.
+This is an important part of our exployability offering, even if students do not actually go on placement.
+Placements are co-ordinated between the School's **Placements Tutor** and the Employability Service's **Placements Team**.
+During Stage 2 all students will be registered for a zero-credit module **CPIE202 Preparing for Placement** which explains the option, includes careers talks and advice on CVs and interview skills.
+If they decide to take a placement year, they will complete a self-assessment form and draft a CV and a cover letter, and send it to their tutor before the end of Semester 1.
+As their tutor, **you will review** their self-assessment to ensure that they are aware of the pros and cons of the option (in time and money) and will work with them to improve their CV and cover letter.
+When you are confident with theier readiness, you can approve them on the School's internal **placement monitoring** system.
+Once approved, it is up to students to apply and obtain placements, either from organisations listed on the placement module pages of through their own contacts.
+New organisations will need additional scrutiny by the Placement Team.
+During the placement year, students on placement will be registered for **CPIE310 Placement year module**.
+A list of students **currently on placement** and so on Stage 3 is provided.
+You will become the default placement tutor for the student during this year, and will need to:
+
+-   agree their learning agreement with their host organisation
+-   conduct a site visit with them a few weeks into Semester 1 to check that everything is going well and processes are understood
+-   review their interim report at the ed of Semester 1
+-   review and assess their final placement report by the end of the summer vacation
+-   approve them for award of the CPIE award before start of Stage 4
+
+You can claim travel expenses for the site visit, but most are near to Plymouth.
+If several students are working for the same organisation, one of their tutors may take over responsibility for their site visits, but you will still need to review, assess and sign things off.
+
+Many students begin a research project while on placement and continue it for their final year projet (see below).
+This is acceptable, but they will need ethical approval from the School before collecting data.
+They will also need a supervisor in Stage 4.
+
+## Student Projects
+
+All undergraduates must complete a research project in Stage 4.
+This module is worth 40 credits, i.e., twice as much as other modules, and so should take them 400 hours of work.
+MPsych students will complete a second project in Stage 5 worth 60 credits, and MSc students will also complete a project - Masters supervisions are not arranged until the start of the session, but UG supervisions are arranged around Easter of Stage 2.
+All of these projects need supervisors, and this means eight to ten projects per lecturer.
+Each year a quota is set for you to recruit.
+To cope with these numbers, most staff offer group projects, where two or more students work together to design and execute a single investigation.
+Their collaboration should cease once data has been collected though, so each student analyses and interprets their common dataset independently (with your support, of course).
+We use the internal **Project Allocation System (PAS)** to manage student choice of project:
+
+-   Early in Semester 2 you will be asked to provide titles and brief summaries of a few potential project areas you will supervise in the following academic year (just areas, not actual studies, so you can reuse these each year).
+
+-   You can specify a maximum number of students you could supervise in each area (set to 10 if you have no limit).
+
+-   If you are happy to take on students returning from placement, with their own project, create an entry that says so.
+
+-   Around Easter, BSc students can access the PAS to read the summaries, and can contact staff with questions.
+
+-   After Easter, students have a week where they can list five choices in order of preference.
+
+-   On the day the system closes, you should access it to approve students who have chosen you as their first choice: if you are oversubscribed, you will have to reject some, and they will appear on the list of their second choice (if they are underscubscribed) and so on.
+
+-   It is nice to meet them before the end of Semester 2 to explain how you supervise projects in general, and to set them thinking, but no work need be done over the summer unless the project specifically requires it.
+
+-   You will meet them again in Induction Week or Week 1 of Stage 4.
+
+There are full details about project supervision and what is required of a project in the Stage Handbook, which there is no space to repeat here.
+Students will need to complete **Ethical Approval** before beginning data collection.
+There is a nice summary of the status of ethics applications and points usage on the **Ethics and Points Admin** page.
+
+If students require software or other support from the Technical Office, they should complete a **technical specification form.** If they want to use their participation points to collect data, they need to have a Researcher Account on **SONA**.
+You will need to approve their entry on the system before it goes live. Some addiitonal **funding for UG projects** can be provided for students who need to recruit non-undergraduate populations, e.g., those in the BabyLab.
+
+The SW Undergraduate Conference (SWUC) is an opportunity for undergraduate students to present their research in a friendly environment.
+It is organised by the SW Branch of the BPS for final year psychology students from the University of the West of England, Bath Spa, Bristol, Exeter, and Plymouth Universities.
+It is held towards the end of Semester 2, around Easter, but before projects are totally complete.
+We encourage our students to attend this, and organise transport etc.
+
+Once projects are marked, the best can be submitted for publication in the University's own publication, [Plymouth Student Scientist.](https://pearl.plymouth.ac.uk/handle/10026.1/12776)
+You and the student need to agree to publication, but submission is the responsibility of the studetm.
+Take care about submitting projects whose data you may wish to publish elsewhere.
+
+When publishing papers that include data collected by students, **consider authorship carefully**.
+Where the students have made an intellectual contribution to the research, then they should be authors; if their contribution falls below this then they should be acknowledged.
+We have a good record of publishing dissertation research, and ought.
+to try to keep a list of it somewhere.
+
+## Central Data
+
+Student records are kept in a database called **UnitE**, which is difficult to use and academic staff do not have full access.
+Instead, use **S4**, which is part of the 'customer relationship management' system Salesforce, and is gradually replacing all other systems for accessing student details.
+All staff can access S4, and you can use it to find out everything about your students.
+A set of **S4 help guides** is available.
+To download a classlist, go to the module's S4 page (these are linked form the Quick Access to DLE page), click Classlists (upper right), then Enrolment Report, then Export, and choose Details only (and select format, e.g. csv or Excel).
+
+## PsyResources
+
+Systems built for use within the school by the technical office are accessed through the [PsyResources](https://psy.plymouth.ac.uk) page.
+These include:
+
+-   Student Ethics
+-   SONA Participation Points system
+-   Groot (Tutorial Allocations)
+-   Room and Equipment bookings
+-   Project Allocation Systems
+-   Test Library
+-   Data Fetch
+-   Apprenticeships
+-   Community Feedback
+-   Placements
+-   Part Time Teaching
+-   Module Boxes
+-   Email lists.

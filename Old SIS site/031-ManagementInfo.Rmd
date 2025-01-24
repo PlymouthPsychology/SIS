@@ -1,0 +1,113 @@
+# Management Information
+
+This section presents an overview of the way that the School of Psychology is managed, along with key administrative resources. It follows the structure of the main page, and contains no links itself. Well, just the one.
+
+## How to Deal with Email
+
+This guidance was created to improve staff wellbeing, and make our daily experience less stressful. You may not believe it, [but it works](http://timharford.com/2013/09/3180/). **Important** - it is a University rule that all emails from students should receive a response within **two** working days (i.e., a message received at 5pm on Friday should be replied to before 5pm on Tuesday). An autoreply counts, provided it specifies when you will be able to respond and provides an alternative contact for urgent issues. An autoreply should be set up for any working day when you are not on campus.
+
+## Discourse
+
+This is where you are now - a website where everyone can post or search for questions and answers. This is visible by anyone with an account for it, so can be used to post FAQs to common student questions, and help colleagues with common issues. It has a very accurate Search tool, unlike the University web pages. Use the **join** link to ask for access, and **access** to go to the home page.
+
+## Management Roles
+
+The School has a Head of School (HoS), a Deputy Head of School (DHoS) and three Associate Heads (AHoS) for Research, Teaching and Learning, and Student Experience. Together these five people form the School Management Group (SMG) and meet each week to run the School. Every other academic will be assigned one or more management roles.
+
+The person currently responsible for each of these roles can be found by following the **Management Roles** link (the heading) which takes you into the Workload Allocation Model (see below). Use your browser's Find or Search function to look for a word that you are interested in (e.g. 'apprentice'). Don't use the Search at the upper right as this looks in the whole WAM site rather than the page.
+
+To find out which Management Role has responsibility for a given task or area, consult the **Roles** (text) document or the **Responsibilities** (diagram).
+
+Management Roles are usually reshuffled each academic session, so if there is a role you would be interested in taking on, tell the HoS.
+
+## Maps
+
+There are over a hundred people in the School, with Academic Offices being on the second floor of the Portland Square (PSQ) building (in blocks A and B) and Research Offices being in Link Building (Floors 1 to 3). A CSV file (roomsdata.csv) of who is where is used to generate a **PSQ map**, a **Link Map** and a **phone directory**. These files are created automatically by an R script which can be run by Jon May whenever the DHoS updates the file. Links to the maps are posted to the DLE, so that students can always access the current version. The files are in a shared folder called Floorplan, which also includes a Door_Signs file for the PSQ nameplates. You can access this powerpoint file to edit and print out your own doorplate from the link **Editable Door Labels.** Doors for rooms that you are allowed into can be opened using your staff card, aka 'Key Card'. Normally these include the main doors to PSQ, your own office, the photocopier/printer opposite the School Office (B222), and the PSQ second floor kitchen. If you need additional rooms added, or need access to different buildings, then you can complete the online **Key Card Acess** forms and somehow your card is updated.
+
+## Shared Documents and Data
+
+**Workload Allocation Model -** Key to the school's management is the **Workload Allocation Model,** or WAM, a database containing all allocated teaching and management roles, each of which has an allowance of time allocated to it. These allowances have been determined as reasonable by the HoS, and if your role takes up more time, then consider the way you are doing it or what you have taken on within the role. If you are still spending too much time on a role, then discuss it with the HoS in case the role needs to be subdivided or shared. An allocation of time for Research activity is also made on retrospective performance (grants managed, papers published). The WAM allows you and the HoS to ensure that individual staff are not overburdened, and that the workload of the school is distributed fairly between staff, with early career staff, newly recruited staff, and staff returning from maternity leave being given lighter workloads. The aim of the WAM is not to account for every single hour, as not all tasks can be fully accounted for in any workload model. A reasonable target would be for 80% of your time to be modelled. Do not let anyone tell you that you should be at 100%; remind them that it cannot and should not include every task.
+
+When you access the WAM, the overview page lists forthcoming tutorials, modules you are teaching on, upcoming Assessments and Marking duties, and a summary of your allocated workload as a percentage of 1650 hours (7.5 hrs a day for 220 days a year). If you click *Your Allocation* the tasks contributing to your allocation are listed (in case of errors, contact Ben Whalley). The *Comparison*plot shows how your workload profile compares to other staff.
+
+**NSS/SPQ -** Each year the government commissions MORI to survey final year students in the National Student Survey or NSS. In past years, the University also ran the same questions on Stage 1 and Stage 2 students as a Student Perception Questionnaire (SPQ). Scores on the NSS are used in league tables and the Teaching Excellence Framework (TEF), so it is imoprtant that we score well on them. All past data, from every University and Course, is kept in the **NSS/SPQ** folder, along with R scripts to generate visualisations. The School used to run its own module evaluation and lecturer evaluation at the end of each semester, and the results from previous recent years can be found in the **Student Evaluation archive**. From 2020-21, this has been centralised and now a subset of NSS items is asked for each module (there is no lecturer evaluation).
+
+**Annual Leave and absence policy -** All staff should take their contractual allowance of leave, but should do so with permission from the HoS. To request leave, email the school office so that they can record it. If you do not take your leave in a calendar year, you can roll over a small number of days to the following year. It is important that leave is recorded, so that in emergencies we know which staff are available, and how to contact staff who are unavailable. Recording your leave helps the school support your wellbeing. It is sometimes more necessary or more productive to work away from campus, whether at home or at other locations (for conferences, external examining, meetings, etc) but staff should notify the school office on days when they are working away from campus for any reason. It is important to be accessible to students during teaching weeks, so working away from campus should be limited to a day a week on average. The HoS has the right to ask you not to work off campus. The School's **Absence Policy** gives more detail about all of this, and Human Resources have a page with the contractual details (see below). Note that we do not use the centralised Leave system you may find on Employee Self Service (see below), as it does not meet the school's needs.
+
+A School newsletter is emailed out to all staff and students each teaching week (on Sunday at 2pm). The **Newsletter archive** holds back copies and a link to add names to the mailing list.
+
+If you are familiar with GitHub, you can join the **School GitHub site** to share data and code for specific school projects, or to see the code that people have written to do a variety of things.
+
+## Programme Management
+
+The programmes and modules we offer have been through a rigorous quality assurance process, and the documents approved as part of this are kept here. In 2018-19 we began a three year roll-out of a new programme, so these documents are relatively up to date. The program **specifications** define the content and structure of each programme, and each module is defined by its Definitive Module Record (**DMR**). All modules have a code with letters that identify the School and a three digit code indicating the Level of delivery, e.g., PSYC411. Our modules all begin PSYC, and Stage 1 is Level 4, Stage 2 is Level 5, Stage 4 is Level 6, and Masters are Level 7. The Doctorate in Clinical Psychology modules are all CPSY6xx. Revisions are named using an additional digit after a dot (e.g., "PSYC416.3" indicates the third revision).
+
+The DMR has two parts: Part A defines what must be delivered, while part B is descriptive and can be deviated from. Part A includes the Learning Objectives and modes of assessment, including the weightings of examination, coursework and practical components and any pass/fail components. These cannot be varied without approval. The structure of assessment within these components can be varied For example, a module might be 50% Examination and 50% Coursework, but the Module Leader can decide how to sructure the exam(s), and whether the coursework consists of two or three pieces of work (elements), and what each of these 'elements' relative weightings are. This structure needs to be communicated to Faculty Administrator, so that the Student Records can be updated to hold the marks for each Element.
+
+If a module leader wants to change anything in part A, they need to request **Minor Changes**, by Late October of the previous session (i.e., if you need to respond to student feedback, you cannot do so the following session, but only the session after that). The **Major Change form** is also provided but you will only want to use that if you have been asked to by the programme lead. The **Quality Assurance Process** pages describe how all this works, though the forms there are out of date and the ones linked here should be used instead.
+
+**Email M/M tutors** If your tutees are taking one of our Majors courses, then two of their modules will be run by a different school. if your tutees raise any concerns about these modules you can contact the person in the other school who is responsible for our students (who we call Majors, as they Major in Psychology, but they will call Minors, hence Major/Minor or M/M). The links for the three programs are given in this section. These students may want to change to a single honours course (often to Psychology, but sometimes the other way). You should discuss this with our Senior Tutor and the relevant M/M tutor.
+
+**Student reps and PsySoc** - The Student Union trains students from each Stage of each programme to be Student Representatives on the School's Teaching and Learning Committee, and they play a vital role in the running of the school. They are chosen by the student body in the Autumn Semester and serve for a year. There is also an overall Course Representative for each programme. Psychology Students run the **PsySoc** student society which puts on a range of social and educational acitivities for its members.
+
+## Policies and Procedures
+
+**Academic regulations** links to the formal regulations covering every eventuality, and also to a wide range of other policy documents. The **Module Leader Guide** was written by a Faculty that no longer exists and is a little out of date, but is still a handy reference to the large number of things a ML has to do. We plan to produce a school version based upon it. **Teaching Responsibilities** details the teaching responsibilties of seventeen different administrative roles, from Deputy Vice Chancellor to Academic Liaison Person, without mentioning Academic Staff who actually deliver the teaching. **Extenuating Circumstances** regulations are here as well as in the Student Support section (above).
+
+
+
+## Essential University Links
+
+The title links to a page on the portal that is a gateway to a number of official sites within Sharepoint. A few key areas are listed below the title.
+
+**Health & Safety and Incident Reporting Form** - the first link will take you to a site with a varied collection of information about safe working pracrices. If you don't follow these, you may need to use the second link. Do think about using the second link if there are any accidents or injuries, or near misses, because even if no immediate action is needed knowing that something bad happened helps the University avoid something worse happening in future.
+
+**Online Training and GoodPractice** are links to a site where internal training courses are accessed and your history of doing them can be found. SOMe of these need to be done once, others periodically to keep your awareness up to date (fire training, etc). Good Practice has some helpful information for new staff.
+
+**Psychology Room and Equipment Bookings** links to an online system for finding our when rooms in Link are available to be booked for research activities or meetings (these are not within the University Room Booking system), and bits of useful kit.
+
+If you need to book a room for a non-timetabled event, such as a tutorial or project group meeting, then use the Uni **Resource Booking** system. You can find out the capacities of all of the rooms form Timetabling site's **Room Capacities** document (a PDF, sadly).
+
+**Faculty of HHS Forms and templates** includes digital version of lots of forms, incuding **external staff expense claim forms** for visitors and speakers to use (probably the only useful one here).
+
+The **School Athena Swan committee** have a restricted site for their own use, which is linked here for their convenience.
+
+## Human resources
+
+The title links to a page maintained by HR, with lots of organistion level infrmstion, guifane and rules. Key ones are linked below.
+
+**PDR (Personal Development and Review)** We have two PDR meetings each year, a main one at the start of each session and a six-month follow-up. The page linked here explains the process and links to the forms that you need to complete.
+
+**Appointing people** If you ever need to appoint an RA you eill need to use this site to nvigate the formal process, from telling HR that there is a vacancy, through advertising and recruiting to appointing them. Before you can interview anyone you need to have completed three online courses (see above - Diversity in the Workplace, Unconscious Bias, Recruitment and selection for panel members) and attend a training session 'Interviewing with Confidence - for Interview Panellists’. There is also ‘Recruitment and Selection for Chairs’ which you need to attend to Chair a panel. Email [staff.development\@plymouth.ac.uk](mailto:staff.development@plymouth.ac.uk){.email} to ask when the next events are. All staff are expected to be able to Chair their own appointment panels and to sit on other staff's panels, so everyone does need to do these two courses sooner rather than later.
+
+**Current vacancies** links to the job vacancies currently available should you wish to help other people move here. **Promotion** - the official account of the promotion process, criteria, and forms. **Annual Leave and Public Holiday details** - the official details. **Employee Self Service** - is where you will find your payslips, P60s, and similar HR details including the forms you need to fill in to say who you are (Under Personal in the top menu bar). You can also see which courses you have attended and book new ones via 'Learning and Development'.
+
+**Cyclescheme** - get a tax free bike. The University is part of this national scheme, which lets you buy a bike worth up to £3000 by monthly deductions from your salary, before Income Tax and National Insurance are deducted, saving you a substantial amount - especially if you are in a higher rate tax band.
+
+## IT WebPages (TIS)
+
+IT support is provided by Technology & Information Services or TIS. The University provides a 'fleet' machine with managed software for all staff. This is usually a PC Laptop, and is renewed every few years. If you prefer you can ask for a Mac, which also comes with a managed system and pre-installed software. Mac support is outsourced to Amsys, based in Endsleigh Terrace. If you have special requirements, e.g., for display or standing desk, then you should raise it with the Head of School.
+
+You can phone support on the number provided.
+
+To report a problem with anything, you can log into the **IT Support Portal** and raise 'an issue', which will be logged and dealt with over the next few days. This is not useful for emergencies, but does get problems logged and counted, which is good if they keep hapenning. Log in with your short user name, not your email address.
+
+**Work at home software** gives access to a range of licensed software that you can download to use on personal or research machines. License codes are not always up to date, especially for SPSS.
+
+**Edit your staff page on the Website** You should keep this up to date as far as possible, and upload a high resolution head-and-shoulders image of yourself. YOu do not need to keep adding publications to it if you tick the 'Show Elements publications' box, as this will automaticlaly display any papers you have 'accepted' as yours on that system. This is recommended most strongly.
+
+## Financial Stuff
+
+-   **Key Travel** for Trains, Flights and Hotels. If travelling on University business, then use this site to book all travel, and if possible accommodation. This allows the University to ay for it directly and avoids the need for you to claim it back. If you cannot access the system you may need to be registered for it - ask the School Office how this is currently done. You will also need to know a 'work order' code to bill the costs against.
+
+-   **Unit4 and External Expense Claims form** If you eat anything, need to claim car travel, or any other expenses then you need to detail them on this system. You will need to scan or photo each receipt and upload it to accompany your claim, but note that there is a filesize limit so you will certainly need to post-process the photo to downsize it. The OneDrive phone app helps here, as it automatically downsizes images it takes and saves them directly to the top level of your OneDrive account, where they can easily be found to upload into Unit4. This means you can snap the receipt as soon as you get it, name it with event and amount, and find it later. The Unit4 system is so arcane it is not worth trying to explain, so seek help from the School Office, but there is a word document that tries to guide you through it.
+
+## Printing and Photography
+
+-   **DPC webpages** is the front page for the Document Production Centre on Kirby Terrace. This is the Universities professional design and print service which is very useful if you need a brochure or project report or large number of copies of something printed. They are very good, and can produce things requested on a specific order form with costs transferred internally, but are not the fastest option.
+
+-   **University Image archive** holds high resolution professional images taken around the University by the photography team from DPC. These are used in print and web and you can search for e.g., Psychology returned 683 results. Login with your SHORT username (not email address). The first time you use it you will be asked to download and install FotoWeb software. This is not entirely necessary, but helps. To book the University photgraphers (Alan and Lloyd) fill in their **booking form**. They want you to have clear ideas of what you want and what you want it for.
+
+-   **School Image Archive and Logos** This is a folder of images and graphics about the school that stopped being maintained in 2018. There are many useful things here including staff photois, some stock images we bought licenses for, and University and School logos and Letterheads.
+
+-   **Printing Posters** is easily done in the Library. Create a PDF file and save it in OneDrive, ask the School Office to add print credits to your staff card (form filling required), then visit the Library and ask for help there.

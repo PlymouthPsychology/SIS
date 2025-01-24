@@ -1,0 +1,70 @@
+# Research Costings
+
+## Context and Summary
+
+According to the VC’s report to Senate, the Faculty of Health was responsible for 58% of all new grant awards in the University in 2023/24, totalling £17.7M. This good performance is a credit to everyone involved and represents our growing reputation as a research-intensive organization. As our prowess in grant capture increases, it’s important that we price grants correctly. The paragraphs below are intended to help you do this.
+
+This document makes the standard economic distinction between price (the amount one charges for a service) and cost (the amount it costs to deliver that service). It is important to ensure your grant proposal includes as many of the direct and indirect costs of your project as is consistent with the rules of your chosen funder. If the funder has a funding cap for an application (e.g. a £250K maximum), and you are over it, your first thought should be to reduce the goals of the project (or seek a different funder), not start taking out costs you could have claimed (hereafter *underpricing*). Costs do not disappear just because you decide not to charge them to the funder. Therefore, underpricing requires approval of your Head of School, several weeks before the deadline. You should not expect your Head of School to agree to underpricing unless you can make a compelling case for strategic benefit. Heads of School may (but are not required to) refer applications for underpricing to the Associate Dean for Research. The argument that underpricing makes grant applications more ‘competitive’ (i.e., increases chances of success) is largely specious and in some cases can have the opposite effect, where unrealistically priced grants are rejected on that basis.
+
+## Pricing advice
+
+Below is some specific advice on pricing grant applications in the Faculty of Health. Further advice is available from the University [Research & Innovation service](https://www.plymouth.ac.uk/research/support/funding/award-manager-launch), for costing contact [Fundingadvisoryservice@plymouth.ac.uk](mailto:Fundingadvisoryservice@plymouth.ac.uk) and application content[researchadvice@plymouth.ac.uk](mailto:researchadvice@plymouth.ac.uk). In cases where you are going to be working with University Hospital Trust Plymouth, please also contact the [Joint Clinical Research Office](https://www.plymouth.ac.uk/research/joint-clinical-research-office) at an early stage ([jcro@plymouth.ac.uk](mailto:jcro@plymouth.ac.uk)). If working with other Trusts and you are unsure of their R&D contact, please contact the above teams and our local NIHR RDN Health and Social Care Study Support Service Manager ([swp.rrdn@nihr.ac.uk](mailto:swp.rrdn@nihr.ac.uk)).
+
+## Investigator time 
+
+Price the PI at 20% FTE for a typical grant, reflecting the wide gamut of tasks involved in delivery of funded research, from day-to-day management through to conference dissemination, publication (writing), networking and delivering impact etc. This percentage rises with the complexity of the project up to 40% FTE for very complex (typically multi-site) projects. In cases where you are a local PI on a grant led by another institution, cost the Plymouth PI at 10%, assuming you also include appropriate PDRF / RA support. For larger projects, include appropriate additional administrative support such as a full-time Project Manager or Administrator. More generally, remember that your time as a PI is both limited and expensive. Consider alternatives to raising the PI price above 20% FTE, such as more PDRA time, a project manager or administrator post, technician time, etc.
+
+Co-I's must make a substantive contribution. Typically, price each Co-I at 10% FTE. If their involvement is unusually large, price at 20%. If there are strong reasons for 10% being too much, price at 5%. If a typical level of commitment has been split across two co-Is working in tandem, split the time (e.g. 2 x co-I at 5% each).
+
+## Fellowships
+
+If your project involves the PI spending a substantial proportion of their time on primary research rather than management, a Fellowship scheme may be more appropriate. These schemes often include teaching replacement costs – where they do make full and appropriate use of them, which will typically mean the maximum the funder allows. Discuss teaching replacement at an early stage with your Head of School, as it has planning implications.
+
+## Technical staff
+
+Ensure you are appropriately pricing your use of core technical staff time. To do this, discuss your objectives with core technical staff at an early stage, and determine whether core staff time versus a technician dedicated for your project is more appropriate.
+
+## Project manager / administrator# 
+
+Similarly, consider the pricing of project management and administration. Charge these to the funder where they allow this and discuss with the relevant members of staff before doing so. On large projects, many funders expect a project manager to be included in the application.
+
+## Facilities
+
+The Faculty and University has many facilities whose use is chargeable to grants (e.g. Systems Biology Centre, BRIC, Animal house facility). Make sure you appropriately price use of such facilities - prices often differ for internally vs. externally funded work. Also, talk to those running the facilities to ensure your application is appropriately priced and can be accommodated. Key charged facilities are listed on the [project costing request form](https://liveplymouthac.sharepoint.com/sites/u103/Website%20Documents/Forms/Document%20Set.aspx?id=%2Fsites%2Fu103%2FWebsite%20Documents%2FResearch%20Application%20Process)
+
+## Impact / PPIE activities
+
+Ensure you appropriately price time for impact activities where appropriate. Similarly, include appropriate pricing of PPIE (Patient and Public Involvement and Engagement). This may include pricing investigator time, but also pricing time for advisors, and stakeholders (see [NIHR guide](https://www.nihr.ac.uk/payment-guidance-researchers-and-professionals)). For larger projects, consider including a specific funded post for such activities. Advice is available on [impact](https://www.plymouth.ac.uk/research/support/impact), [public](https://www.plymouth.ac.uk/research/public-engagement-at-plymouth) and [policy](https://www.plymouth.ac.uk/research/public-policy/engaging-with-policy) engagement activities.
+
+## Clinical trials
+
+If doing a clinical trial, contact the Clinical Trials Unit [PenCTU ](https://www.plymouth.ac.uk/research/public-policy/engaging-with-policy) at an early stage ([penctu@plymouth.ac.uk](mailto:penctu@pcmd.ac.uk)). They provide expertise in designing, developing, and coordinating clinical trials and other studies. Check with them that you are pricing use of their services correctly in your application.
+
+## University as ‘sponsor’
+
+If the university is the ‘sponsor’ (basically, legally responsible organization) for a project involving the NHS, price in the time of the [University Sponsor team](mailto:research.governance@plymouth.ac.uk) where possible (as it is with e.g. NIHR).
+
+## NHS costs
+
+NHS organizations have processes by which they can claim (from sources other than the grant funder) some of the additional costs of research being conducted, such as support costs and excess treatment costs. Talk to your NHS partner about this at an early stage, as it’s important they also are able to fully claim allowable costs. If some cases, failure to do this properly can leave the university liable for costs to the NHS. Make sure you are aware of the [SoECAT](https://www.nihr.ac.uk/online-soecat-guidance) process.
+
+## Materials, consumables, and general costs 
+
+Ensure you’ve appropriately costed everything you’ll use, including lab consumables, personal protective equipment, and (where allowable) IT equipment. Cost software licenses, open access publishing costs, specific recruitment costs, participant payments, data storage costs, and the costs relating to the development of intellectual property.
+
+## Equipment 
+
+This usually means things over £10K. You’ll need to follow University [procurement](https://www.plymouth.ac.uk/about-us/university-structure/service-areas/procurement) processes for these, which are non-trivial in time and extent.
+
+## Travel and subsistence 
+
+Include conferences, along with their fees. Include costs of travelling to meet team members and stake holders etc. at other institutions. Where travel is international, include visa costs (see [Travel and Subsistence policy](https://liveplymouthac.sharepoint.com/sites/U11/SitePages/Travel-and-Subsistence-Policy.aspx)).
+
+## Subcontracts 
+
+Include services that you need but the university does not provide, e.g. transcription, translation. You may need to include estimated costing from suppliers, and this may involve the University’s procurement process.
+
+## Institutional and external partner contributions 
+
+In some cases, a funder requires or expects a direct financial contribution, or contribution in kind, from either the University, or an external partner. Where it is the latter, allow plenty of time for agreeing and documenting external partner contributions. Where it is the former, this is a form of under-costing, and thus requires early discussion with your Head of School (see above). There is a [due diligence](https://liveplymouthac.sharepoint.com/sites/u103/SitePages/Due%20Diligence.aspx) process for working with International collaborators.
+

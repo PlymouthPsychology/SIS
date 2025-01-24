@@ -1,0 +1,66 @@
+# Paying participants
+Participant payments can be obtained through the following process in the School of Psychology. The school's standard rate is £10 / hour, £5 / 30 minutes. 
+
+If you are using the [Paid Pool SONA system](https://uopsopp.sona-systems.com) then you can send people Amazon vouchers - either pay everyone £5 for 30 minutes (minimum duration for vouchers) or offer a prize draw for shorter studies (e.g., chance to win £25). You can find your participants' email addresses from the Download Participant list; send these to the tech office with details of the account to pay from.
+
+If you are using Prolific to recruit people online, [they recommend at least £9 / hour](https://researcher-help.prolific.co/hc/en-gb/articles/4407695146002-Prolific-s-payment-principles), so it would be best to use the School's £10 / hour rate.
+
+* Use these Cash advance and Costings forms (email Fiona.trembath@plymouth.ac.uk for advice on their use)
+
+## Using vouchers to pay participants
+
+Important: We will only be purchasing vouchers in increments of £5, so: Study length 0 – 30 mins = £5, 31 – 60 mins = £10 ...etc...
+
+For prize draw type rewards whole numbers divisible by 5 only please.
+
+### Part 1 Source of Finance
+
+Are you looking to use the General School Research funds to pay for the vouchers?
+If yes: Email Caroline Floccia for approval in the first instance.
+Or are you using bench fees, an individual research grant or another means of finance?
+
+If yes: Make sure you know the work order code for this purchase. If unknown then please contact either the School Office or your project supervisor.
+Bench fee spending will require an authorised costing form available from the School Office Finally contact the School Technical Manager directly with the work order, number and value of vouchers required.
+
+Note: If you do not have sufficient funds to gather the required number of participants please contact Caroline Floccia as general funds may be available as a top up.
+
+### Part 2 Study Set Up
+
+Are you using the SONA participation system to recruit?
+
+If yes: Once you have agreement for the purchasing of vouchers, set up your study on the system and add slots if possible then email the Pool Admin Team with the following information:
+Study Title, voucher value, total fund for the study and date this study will conclude by.
+
+Info: The vouchers will be automatically sent to the participants within 24 hours of the credit for participation being granted.
+
+Or are you recruiting in a bespoke format?
+
+If yes: Email the School Technical Manager directly to request the purchase of vouchers with the following information; Voucher value, total fund and work order code.
+
+Info: The voucher codes will be emailed back to you in a spreadsheet for you to distribute manually as required.
+
+### Any other queries?
+
+Email the School Technical Manager directly.
+
+[Participant_Payment_ Cash_ Advance_ Request_ Form_Psychology_2013.docx|attachment](https://liveplymouthac.sharepoint.com/:w:/r/sites/SchoolofPsychologyStaff/Shared%20Documents/General/sis/files/Participant_Payment_%20Cash_%20Advance_%20Request_%20Form_Psychology_2013.docx?d=w4663eac1022f4e7c88f12a76cd98cd6f&csf=1&web=1&e=F0oKY9)
+[Internal Placement costing form.doc|attachment](https://liveplymouthac.sharepoint.com/:w:/r/sites/SchoolofPsychologyStaff/Shared%20Documents/General/sis/files/Internal%20Placement%20costing%20form.doc?d=w98e093d1295f4e43b4d5b8c31345ba16&csf=1&web=1&e=Eb44Fv)
+[MScMPsych Psychology Project costing form.docx|attachment](https://liveplymouthac.sharepoint.com/:w:/r/sites/SchoolofPsychologyStaff/Shared%20Documents/General/sis/files/MScMPsych%20Psychology%20Project%20costing%20form.docx?d=w7d5f6ed975b34076abb4a2a44b9928a2&csf=1&web=1&e=cg5hGW)
+[Postgrad costing form.doc|attachment](https://liveplymouthac.sharepoint.com/:w:/r/sites/SchoolofPsychologyStaff/Shared%20Documents/General/sis/files/Postgrad%20costing%20form.doc?d=w6a1551f8b8dd4fa88386033681651dcf&csf=1&web=1&e=u5azNo)
+
+* Get these signed off by the relevant supervisor/director of studies and countersigned by programme lead (Masters), postgraduate coordinator (PhD), AHoS-R (staff) as appropriate.
+* Give Costings and if necessary Cash Advance forms to Fiona at Link 303. Please email one week in advance for amounts above £500.
+* Fiona will then be able to release your funds, which you must sign for and will take a copy to keep on record.
+* This will be forwarded to Finance to be reconciled with your Bench fees or relevant budget.
+* You must ask participants to sign to say they have received cash payments (not needed for vouchers). 
+[Participant payment Receipt form Aug 2022 single.docx|attachment](https://liveplymouthac.sharepoint.com/:w:/r/sites/SchoolofPsychologyStaff/Shared%20Documents/General/sis/files/Participant%20payment%20Receipt%20form%20Aug%202022%20single.docx?d=w4de13cb7f16c473fbc6e5356906608cc&csf=1&web=1&e=T1Fepl)
+
+*When your participants sign, ensure they cannot see the details of other participants, to comply with GDPR. Always keep records of participant signatures for reconciling in a locked cabinet, and at the end of your study return to Fiona Trembath for secure keeping.
+* Any unspent funds must be returned to Fiona and reconciled against your budget.
+
+## Other resources
+
+- [Welfare Benefits Jobcentre Letter.docx|attachment](https://liveplymouthac.sharepoint.com/:w:/r/sites/SchoolofPsychologyStaff/Shared%20Documents/General/sis/files/Welfare%20Benefits%20Jobcentre%20Letter-2.docx?d=w030ec8ed3b2349959069277f2ff86706&csf=1&web=1&e=36MN4b)
+
+
+- [Prolific account process.docx|attachment](https://liveplymouthac.sharepoint.com/:w:/r/sites/SchoolofPsychologyStaff/Shared%20Documents/General/sis/files/Prolific%20account%20process.docx?d=w6c0059e8b94f4290aab1ebb3025a2277&csf=1&web=1&e=mt9vie)
