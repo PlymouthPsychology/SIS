@@ -1,6 +1,6 @@
 ---
 title: "Welcome to the S-I-S"
-site: bookdown::bookdown_site
+site: rmarkdown::render_site
 documentclass: book
 output:
   html_document:
