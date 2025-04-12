@@ -1,4 +1,4 @@
-name: Render and Deploy Site
+name: Deploy R Markdown Site
 
 on:
   push:
@@ -9,26 +9,26 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout code
+      - name: Checkout repository
         uses: actions/checkout@v3
 
       - name: Set up R
         uses: r-lib/actions/setup-r@v2
 
-      - name: Install dependencies
-        run: |
-          Rscript -e "install.packages('rmarkdown')"
+      - name: Install required R packages
         shell: Rscript {0}
+        run: install.packages('rmarkdown', repos = 'https://cloud.r-project.org')
 
-      - name: Render site
-        run: |
-          Rscript -e "rmarkdown::render_site(encoding = 'UTF-8')"
+      - name: Build R Markdown site
+        working-directory: docs
         shell: Rscript {0}
+        run: rmarkdown::render_site(encoding = 'UTF-8')
+        touch .nojekyll
 
-      - name: Commit and push site files
+      - name: Commit rendered site
         run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add _main.html
-          git commit -m "Auto-deploy site" || echo "No changes to commit"
+          git config --global user.name github-actions
+          git config --global user.email github-actions@github.com
+          git add docs/
+          git commit -m "Rebuild site" || echo "No changes to commit"
           git push
