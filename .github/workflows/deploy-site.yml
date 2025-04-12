@@ -23,7 +23,6 @@ jobs:
         working-directory: docs
         shell: Rscript {0}
         run: rmarkdown::render_site(encoding = 'UTF-8')
-        touch .nojekyll
 
       - name: Commit rendered site
         run: |
