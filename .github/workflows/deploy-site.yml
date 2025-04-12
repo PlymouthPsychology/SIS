@@ -17,12 +17,12 @@ jobs:
 
       - name: Install dependencies
         run: |
-          install.packages("rmarkdown")
+          Rscript -e "install.packages('rmarkdown')"
         shell: Rscript {0}
 
       - name: Render site
         run: |
-          rmarkdown::render_site(encoding = 'UTF-8')
+          Rscript -e "rmarkdown::render_site(encoding = 'UTF-8')"
         shell: Rscript {0}
 
       - name: Commit and push site files
