@@ -20,9 +20,9 @@ jobs:
         run: install.packages(c('rmarkdown', 'bookdown'), repos = 'https://cloud.r-project.org')
 
       - name: Build R Markdown site
-        working-directory: docs
+        working-directory: source
         shell: Rscript {0}
-        run: bookdown::render_book("source/index.Rmd", encoding = "UTF-8")
+        run: bookdown::render_book("index.Rmd", encoding = "UTF-8")
 
       - name: Disable Jekyll
         run: touch docs/.nojekyll
