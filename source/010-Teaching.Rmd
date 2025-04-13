@@ -7,7 +7,7 @@
 
 ## Lecturing and Workshops
 
--   [Overview of programmes and modules](https://discourse.psy.plymouth.ac.uk/t/overview-of-programmes-within-the-school/1369)
+-   [Overview of programmes and modules](#teaching-overview)
 -   Uni [Teaching guidance](https://www.plymouth.ac.uk/about-us/teaching-and-learning/guidance-and-resources) and [Sharepoint](https://liveplymouthac.sharepoint.com/sites/x75/SitePages/Home.aspx) site
 -   [Teaching Development Framework](https://liveplymouthac.sharepoint.com/sites/u411/SitePages/Teaching-Development-Framework-(TDF)-Resources.aspx?csf=1&web=1&e=vKar44&cid=bb75440b-27eb-4e5b-ba12-0962d69fce9a)
 -   [Generic School Slide format](https://liveplymouthac.sharepoint.com/:p:/r/sites/SchoolofPsychologyStaff/Shared%20Documents/General/sis/files/Example%20QR%20slide%20v3.pptx?d=w70127af001d54d498b30029ca27d6e18&csf=1&web=1&e=APEk8c) (301.3 KB)
@@ -21,7 +21,7 @@
 ## [PsyLab](http://www.psy.plymouth.ac.uk/psylab) and tutorials
 
 -   [Tutorial groups](https://psy.plymouth.ac.uk/apps/tgw) (tile on PsyResources)
--   [Tutorial information for staff (2024-25)](https://discourse.psy.plymouth.ac.uk/t/tutorial-information-for-staff-2024-5/1649)
+-   [Tutorial information for staff (2024-25)](#psylab-tutorials)
 -   [Stage 1](https://dle.plymouth.ac.uk/mod/resource/view.php?id=768941) and [Stage 2](https://dle.plymouth.ac.uk/mod/resource/view.php?id=768942) schedule
 -   [Room sizes\|attachment](upload://4NgXi4gmI0uffRbFbTe6AFuIseQ.docx) (60.1 KB) and [Room Booking](https://resourcebooker.plymouth.ac.uk/)
 
