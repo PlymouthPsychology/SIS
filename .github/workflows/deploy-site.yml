@@ -17,12 +17,12 @@ jobs:
 
       - name: Install required R packages
         shell: Rscript {0}
-        run: install.packages('rmarkdown', repos = 'https://cloud.r-project.org')
+        run: install.packages(c('rmarkdown', 'bookdown'), repos = 'https://cloud.r-project.org')
 
       - name: Build R Markdown site
         working-directory: docs
         shell: Rscript {0}
-        run: rmarkdown::render_site(encoding = 'UTF-8')
+        run: bookdown::render_book('index.Rmd', encoding = 'UTF-8')
 
       - name: Commit rendered site
         run: |
