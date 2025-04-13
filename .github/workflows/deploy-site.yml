@@ -24,6 +24,9 @@ jobs:
         shell: Rscript {0}
         run: bookdown::render_book("source/index.Rmd", encoding = "UTF-8")
 
+      - name: Disable Jekyll
+        run: touch docs/.nojekyll
+
       - name: Commit rendered site
         run: |
           git config --global user.name github-actions

@@ -1,1 +1,3 @@
-output_dir: "../docs"
+book_filename: _main
+output_dir: ../docs
+rmd_files: ["index.Rmd"]  # Add your actual Rmd files here
