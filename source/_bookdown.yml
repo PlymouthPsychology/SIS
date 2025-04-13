@@ -1,3 +1,22 @@
 book_filename: _main
-output_dir: ../docs
-rmd_files: ["index.Rmd"]  # Add your actual Rmd files here
+rmd_files: ["index.Rmd",
+"001-Modules.Rmd",
+"010-Teaching.Rmd",
+"011-TeachingInfo.Rmd",
+"012-programmes.Rmd",
+"013-induction.Rmd",
+"014-officehours.Rmd",
+"015-exammarking.Rmd",
+"016-releasingmarks.Rmd",
+"020-Research.Rmd",
+"021-ResearchInfo.Rmd",
+"022-researchcosting.Rmd",
+"023-prolific.Rmd",
+"025-payingparticipants.Rmd",
+"026-summerinterns.Rmd",
+"030-Management.Rmd",
+"031-ManagementInfo.Rmd",
+"032-leave.Rmd",
+"033-dmrs.Rmd",
+"034-honorarystaff.Rmd"
+]

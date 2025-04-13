@@ -22,7 +22,12 @@ jobs:
       - name: Build R Markdown site
         working-directory: source
         shell: Rscript {0}
-        run: bookdown::render_book("index.Rmd", encoding = "UTF-8")
+        run: bookdown::render_book(encoding = "UTF-8")
+
+      - name: Copy output to docs
+        run: |
+          mkdir -p docs
+          cp source/_main.html docs/
 
       - name: Disable Jekyll
         run: touch docs/.nojekyll
