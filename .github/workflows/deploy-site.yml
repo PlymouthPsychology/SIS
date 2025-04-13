@@ -30,7 +30,7 @@ jobs:
       - name: Copy output to docs
         run: |
           mkdir -p docs
-          cp source/_main.html docs/
+          cp source/_main.html docs/index.html
 
       - name: Disable Jekyll
         run: touch docs/.nojekyll
