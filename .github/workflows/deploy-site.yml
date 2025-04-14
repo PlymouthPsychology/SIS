@@ -32,7 +32,7 @@ jobs:
           mkdir -p docs
           mkdir -p docs/files
           cp source/_main.html docs/index.html
-          cp source/files/*.pdf docs/files/
+          cp source/files/* docs/files/
 
       - name: Disable Jekyll
         run: touch docs/.nojekyll
