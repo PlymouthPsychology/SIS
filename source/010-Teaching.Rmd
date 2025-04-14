@@ -46,7 +46,7 @@
 -   [School marking and moderation procedures](files/Marking-Moderation%20Stages%20and%20Responsibilities%20-%202023-24.pdf)
 -   [Marking and Moderation - how it works (student-facing document)](files/Marking,%20Moderation%20and%20Feedback%20-%20how%20it%20works.pdf)
 -   [Marking and Feedback Guidelines using Turnitin Feedback Studio on the DLE](files/Marking%20using%20Turnitin.docx)
--   [Advice and guidance for staff when dealing with assessment offences.pdf\|attachment](Advice%20and%20guidance%20for%20staff%20when%20dealing%20with%20assessment%20offences_2020.pdf)
+-   [Advice and guidance for staff when dealing with assessment offences.pdf\|attachment](files/Advice%20and%20guidance%20for%20staff%20when%20dealing%20with%20assessment%20offences_2020.pdf)
 -   Shiny apps for marking and moderation:
     -   [Combining a students marks on several assignments into a single mark](https://jonmay.shinyapps.io/CombineR/)
     -   [Statistical Moderation (single Q, many Markers)](http://jonmay.shinyapps.io/ModeratoR)
