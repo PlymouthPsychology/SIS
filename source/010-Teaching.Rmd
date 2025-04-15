@@ -10,7 +10,7 @@
 -   [Overview of programmes and modules](#teaching-overview)
 -   Uni [Teaching guidance](https://www.plymouth.ac.uk/about-us/teaching-and-learning/guidance-and-resources) and [Sharepoint](https://liveplymouthac.sharepoint.com/sites/x75/SitePages/Home.aspx) site
 -   [Teaching Development Framework](https://liveplymouthac.sharepoint.com/sites/u411/SitePages/Teaching-Development-Framework-(TDF)-Resources.aspx?csf=1&web=1&e=vKar44&cid=bb75440b-27eb-4e5b-ba12-0962d69fce9a)
--   [Generic School Slide format](files/Example%20QR%20slide%20v3.pptx) (301.3 KB)
+-   [Generic School Slide format](https://liveplymouthac.sharepoint.com/:p:/r/sites/SchoolofPsychologyStaff/Shared%20Documents/Teaching/General%20information%20for%20staff/Teaching%20support%20resources/front%20slide%20template%20for%20lectures.pptx?web=1)
 -   [Leganto](https://readinglists.plymouth.ac.uk/) (reading lists) and [Help Guide](https://plymouth.libguides.com/readinglists)
 -   [Panopto Home](https://plymouth.cloud.panopto.eu/), [Info](https://dle.plymouth.ac.uk/course/view.php?id=26163) and [help - email](mailto:avrefreshandcapture@plymouth.ac.uk)
 -   [Mentimeter](http://www.mentimeter.com/)
@@ -42,11 +42,11 @@
 
 -   [List of Psychology Assessments 2024-25](https://liveplymouthac-my.sharepoint.com/:x:/g/personal/jon_may_plymouth_ac_uk/ESiQf4yK3x1Dgmcv9JZmojMBkpSDfi1-R3cCcD4IYL806A?e=hQxs7k)
 -   [UoP Examination Timetables](https://liveplymouthac.sharepoint.com/sites/x70/SitePages/Examination-timetables.aspx)
--   [School exam marking process](https://liveplymouthac.sharepoint.com/:w:/r/sites/SchoolofPsychologyStaff/Shared%20Documents/Teaching/General%20information%20for%20staff/Assessment%20Information/exam%20marking.docx)
--   [School marking and moderation procedures](files/Marking-Moderation%20Stages%20and%20Responsibilities%20-%202023-24.pdf)
--   [Marking and Moderation - how it works (student-facing document)](files/Marking,%20Moderation%20and%20Feedback%20-%20how%20it%20works.pdf)
--   [Marking and Feedback Guidelines using Turnitin Feedback Studio on the DLE](files/Marking%20using%20Turnitin.docx)
--   [Advice and guidance for staff when dealing with assessment offences.pdf\|attachment](files/Advice%20and%20guidance%20for%20staff%20when%20dealing%20with%20assessment%20offences_2020.pdf)
+-   [School exam marking process](https://liveplymouthac.sharepoint.com/:w:/r/sites/SchoolofPsychologyStaff/Shared%20Documents/Teaching/General%20information%20for%20staff/Assessment%20Information/exam%20marking.docx?web=1)
+-   [School marking and moderation procedures](https://liveplymouthac.sharepoint.com/:b:/r/sites/SchoolofPsychologyStaff/Shared%20Documents/General/Old%20SIS%20site/files/Marking-Moderation%20Stages%20and%20Responsibilities%20-%202023-24.pdf?web=1)
+-   [Marking and Moderation - how it works (student-facing document)](https://liveplymouthac.sharepoint.com/:w:/r/sites/SchoolofPsychologyStaff/Shared%20Documents/Teaching/General%20information%20for%20staff/Assessment%20Information/Marking%20Moderation%20and%20feedback%20-%20how%20it%20works.docx?web=1)
+-   [Marking and Feedback Guidelines using Turnitin Feedback Studio on the DLE](https://liveplymouthac.sharepoint.com/:w:/r/sites/SchoolofPsychologyStaff/Shared%20Documents/Teaching/General%20information%20for%20staff/Assessment%20Information/Marking%20using%20Turnitin.docx?web=1)
+-   [Advice and guidance for staff when dealing with assessment offences.pdf\|attachment](https://liveplymouthac.sharepoint.com/:b:/r/sites/SchoolofPsychologyStaff/Shared%20Documents/Teaching/General%20information%20for%20staff/Assessment%20Information/Advice%20and%20guidance%20for%20staff%20when%20dealing%20with%20assessment%20offences_2020.pdf?web=1)
 -   Shiny apps for marking and moderation:
     -   [Combining a students marks on several assignments into a single mark](https://jonmay.shinyapps.io/CombineR/)
     -   [Statistical Moderation (single Q, many Markers)](http://jonmay.shinyapps.io/ModeratoR)
@@ -70,12 +70,12 @@
 -   [Classlists for Stage 4](https://classlists.plymouth.ac.uk/classlist.aspx?t=q&r=PSYC6)
 -   [Classlists for Masters](https://classlists.plymouth.ac.uk/classlist.aspx?t=q&r=PSYC7)
 -   [Timetable Change Request Form\|attachment](files/Timetable%20Change%20Request%20Form%20MAC%20Users.docx) (email to Michael Verde)
--   [Timetabling constraints and flexible working request forms.docx\|attachment](files/Timetabling%20constraints%20and%20flexible%20working%20request%20forms.docx)
+-   [Timetabling constraints and flexible working request forms.docx\|attachment](https://liveplymouthac.sharepoint.com/:w:/r/sites/SchoolofPsychologyStaff/Shared%20Documents/General/Old%20SIS%20site/files/Timetabling%20constraints%20and%20flexible%20working%20request%20forms.docx?web=1)
 
 ## Placement Year and Year Abroad
 
 -   [Overview web page](https://www.plymouth.ac.uk/schools/psychology/placement)
--   [Careers and Placements Staff.pptx\|attachment](files/Careers%20and%20Placements%20Staff%20Induction.pptx)
+-   [Careers and Placements Staff.pptx\|attachment](https://liveplymouthac.sharepoint.com/:p:/r/sites/SchoolofPsychologyStaff/Shared%20Documents/General/Old%20SIS%20site/files/Careers%20and%20Placements%20Staff%20Induction.pptx?web=1)
 -   email [placements team](mailto:placements@plymouth.ac.uk)
 -   [Placement Monitoring](https://www.psy.plymouth.ac.uk/apps/placement)
 -   [Year Abroad Scheme](https://www.plymouth.ac.uk/international/exchange-opportunities/outgoing-exchanges)
