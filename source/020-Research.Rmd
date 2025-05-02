@@ -1,10 +1,12 @@
 # Research
-[School](https://dle.plymouth.ac.uk/course/view.php?id=66067) - [Programme](https://dle.plymouth.ac.uk/course/view.php?id=38727) - [Gradbook](https://gradbook.plymouth.ac.uk/) - [RoomBooking](https://resourcebooker.plymouth.ac.uk/) - [Timetable](https://timetables.plymouth.ac.uk/) - [Panopto](https://plymouth.cloud.panopto.eu/) - 
+[Psychology Research website](http://www.plymouth.ac.uk/research/psychology) - 
+[School Seminars](http://www.plymouth.ac.uk/research/psychology/seminars)
+([DLE](https://dle.plymouth.ac.uk/course/view.php?id=66067&section=4)) - 
+[Gradbook](https://gradbook.plymouth.ac.uk/) - 
 [TechOffice](https://psy.plymouth.ac.uk) - 
-[Primo](https://primo.plymouth.ac.uk) - 
-[SONA](https://uopsop.sona-systems.com/)
+[SONA](https://uopsop.sona-systems.com/) - 
+[Ethics](https://apply-ethicsonlinesystem.plymouth.ac.uk/)
 
--   [Psychology Research website](http://www.plymouth.ac.uk/research/psychology)-   [School Seminars](http://www.plymouth.ac.uk/research/psychology/seminars) - on [DLE](https://dle.plymouth.ac.uk/course/view.php?id=66067&section=4)
 
 ## Getting Funding
 -   [Je-S Research Council system ](https://je-s.rcuk.ac.uk/) - Now
@@ -53,20 +55,20 @@ to understand how it works.**
 ## Doing Research
 
 -   [Ethical
-    review](https://www.plymouth.ac.uk/research/governance/ethical-review),
+    review](https://www.plymouth.ac.uk/research/governance/ethical-review), 
     [Application
-    Process](https://liveplymouthac.sharepoint.com/sites/u136/SitePages/Staff%20and%20PhD%20Ethics%20Applications.aspx),
+    Process](https://liveplymouthac.sharepoint.com/sites/u136/SitePages/Staff%20and%20PhD%20Ethics%20Applications.aspx), 
     [Online System](https://apply-ethicsonlinesystem.plymouth.ac.uk/)
--   [OpenSesame](https://osdoc.cogsci.nl/4.0/download/),
-    [tutorials](https://osdoc.cogsci.nl/4.0/tutorials/beginner/) and
-    [JATOS](http://jatos.plymouth.ac.uk/)server
+-   [OpenSesame](https://osdoc.cogsci.nl/4.0/download/), 
+    [tutorials](https://osdoc.cogsci.nl/4.0/tutorials/beginner/) and 
+    [JATOS](http://jatos.plymouth.ac.uk/) server
 -   [JISC Online surveys version
     3](https://app.onlinesurveys.jisc.ac.uk/login) and older [version
     2](https://admin.onlinesurveys.ac.uk/accounts/login/)
 -   School [Limesurvey](https://psysurvey.plymouth.ac.uk/) server
     (called psysurvey) and [Guide on
     use](https://jon-may.github.io/limesurvey/docs/index.html)
--   [Prolific login](https://app.prolific.co/register/researcher)
+-   [Recruiting through Prolific](https://liveplymouthac.sharepoint.com/:w:/r/sites/SchoolofPsychologyStaff/Shared%20Documents/Research/Doing%20research/I%20am%20new%20to%20Prolific.docx?web=1) - [Prolific login](https://app.prolific.co/register/researcher) 
 -   email [Pointsadmin](mailto:sonaadmin.psy@plymouth.ac.uk) and access
     [points SONA](https://uopsop.sona-systems.com/) or [paid
     SONA](https://uopsopp.sona-systems.com/)
@@ -172,20 +174,25 @@ to understand how it works.**
     examiners](https://liveplymouthac-my.sharepoint.com/:x:/g/personal/patricia_kanngiesser_plymouth_ac_uk/EU0NlrgP5KNHg3KRT4dNxlsBZ3ZHZTdaIoEP28V7k6f7GA)
     with data for Gradbook
 
-## Projects and Groups
+## Research Groups
 
--   [BRIC
-    website](https://www.plymouth.ac.uk/research/psychology/brain-research-and-imaging-centre)
-    and
-    [Wiki-handbook](https://brichandbook.readthedocs.io/en/latest/index.html)
--   [School Research
-    Site​​](http://www.plymouth.ac.uk/research/psychology)
--   [List of research
-    Groups](https://liveplymouthac.sharepoint.com/:x:/r/sites/SchoolofPsychologyStaff/Shared%20Documents/General/Research/List%20of%20research%20groups%201.xlsx?d=w778715c8726649e8a3dce0076ceeef70&csf=1&web=1&e=fP2wWP)
-    and [When groups
-    meet](https://liveplymouthac.sharepoint.com/:x:/r/sites/SchoolofPsychologyStaff/Shared%20Documents/General/when%20research%20groups%20meet.xlsx?d=w1d88df429cf54556aea0e9ead8b4ddb9&csf=1&web=1&e=h1w9uc)
--   [Functional Imagery
+- [School Research Site](http://www.plymouth.ac.uk/research/psychology)
+- [List of research Groups](https://liveplymouthac.sharepoint.com/:x:/r/sites/SchoolofPsychologyStaff/Shared%20Documents/Research/Research%20groups/List%20of%20research%20groups%201.xlsx?web=1) and [When groups meet](https://liveplymouthac.sharepoint.com/:x:/r/sites/SchoolofPsychologyStaff/Shared%20Documents/Research/Research%20groups/when%20research%20groups%20meet.xlsx?web=1)
+- Group websites or Teams channels
+  - [BRIC website](https://www.plymouth.ac.uk/research/psychology/brain-research-and-imaging-centre) and [Wiki-handbook](https://brichandbook.readthedocs.io/en/latest/index.html)
+  - [Functional Imagery
     Training](https://www.plymouth.ac.uk/research/psychology/applied-psychology/functional-imagery-training)
--   [In the Dancer's Mind](http://blogs.plymouth.ac.uk/dancersmind/)​​
--   [Health Lab
+  - [Health Lab
     guides](https://liveplymouthac.sharepoint.com/:f:/s/u325/EjVG6rP9w9tOpfFe5P2zGWsBZ00q0tQ2rXULJy-txxoQww?e=rFl5Wc)
+  - [Baby Lab](https://www.psy.plymouth.ac.uk/babylab)
+  - [Human-centered AI group (HAIG)](https://teams.microsoft.com/l/channel/19%3Ae8f5b94819e84580964791403fca9f63%40thread.tacv2/HAIG?groupId=137225cb-afa0-45e2-82c4-9463d0501636&tenantId=5437e7eb-83fb-4d1a-bfd3-bb247e061bf1)
+  - [Cognition Group](https://teams.microsoft.com/l/channel/19%3A22912710cc6a4b11b25e04de83b98fdf%40thread.tacv2/Cognition%20Group?groupId=137225cb-afa0-45e2-82c4-9463d0501636&tenantId=5437e7eb-83fb-4d1a-bfd3-bb247e061bf1)
+  - [Environmental Psychology Research Group](https://teams.microsoft.com/l/channel/19%3A0ec11824126d4bd59660a2b86954119d%40thread.tacv2/Environmental%20Psychology%20Research%20Group?groupId=137225cb-afa0-45e2-82c4-9463d0501636&tenantId=5437e7eb-83fb-4d1a-bfd3-bb247e061bf1)
+  - [Face lab](https://teams.microsoft.com/l/channel/19%3Ab3dffc9eb37f4fcdae35b20a5329eb9f%40thread.tacv2/Face%20Lab?groupId=137225cb-afa0-45e2-82c4-9463d0501636&tenantId=5437e7eb-83fb-4d1a-bfd3-bb247e061bf1)
+  - [Mental Imagery Research Group](https://teams.microsoft.com/l/channel/19%3A03245dd49b68442e9f5e5cc0cf242f0f%40thread.tacv2/Mental%20Imagery%20Research%20Group%20(MIRG)?groupId=137225cb-afa0-45e2-82c4-9463d0501636&tenantId=5437e7eb-83fb-4d1a-bfd3-bb247e061bf1)
+  - [Eye Tracking Interest Group](https://teams.microsoft.com/l/channel/19%3A9ba52f3c89a24a38b28f7653b4a0daad%40thread.tacv2/Eye%20Tracking%20Interest%20Group?groupId=137225cb-afa0-45e2-82c4-9463d0501636&tenantId=5437e7eb-83fb-4d1a-bfd3-bb247e061bf1)
+
+
+## Research projects
+
+-   [In the Dancer's Mind](http://blogs.plymouth.ac.uk/dancersmind/)
