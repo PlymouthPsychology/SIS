@@ -1,0 +1,54 @@
+
+## Open Science
+
+The School is committed to **Open Science**, and encourages all research to be preregistered, with materials, data and analysis scripts posted online in a persistent repository. The Univeristy maintains an **Open Science Blog,** and a **Data Policy**, and there is also a **School Policy**. There is a guide on **how to do open science**, and links to the **Zenodo.org** and **Open Science Framework**repositories for sharing plans and data.The Doctoral College have provided a very good **Guide to Data Management** (a plan is required for ethical approval)
+
+The School uses **R for statistical analysis,** and support materials are provided, but *SPSS* is also available on managed computers and for download from the IT Work-at-home site (although provision of annual licence updates is routinely late and apparently confidential).
+
+## On publication
+
+For the REF we must make all papers accessible online within a short period following acceptance (not publication). There are two steps to follow:
+1) add a record to **Symplectic Elements** so that the University knows about your publication and it appears on your staff web page (see entry at end of Management column).
+2) Upload a PDF 'authors' copy' of your manuscript to the **University repository PEARL**.
+
+Once a paper is published, Symplectic Elements will find it and either automatically update your manual record with the pubication details, or leave it in a Pending folder for you to 'Claim' as yours. It may also find others by similarly named authors who are not you, which you can Reject. If you have followed the guidelines and already created a manual record on acceptance, then you can merge the record of the published paper with your earlier manual one.
+
+## REF Information
+
+Our REF submission is in Unit of Assessment 4 (Psychology, Psychiatry and Neuroscience). The School's REF co-ordinator* will regularly ask you to rate your own papers, and to select a subset of these for consideration for the School's submission. You may be asked to read and rate colleagues' papers. It is in all of our interests to publish as many papers as we can that might be seen by REF Panels as 4-star; 3-stars are also useful, nothing else is useful for REF.
+
+Impact Case Studies are also important and although we can only subit a few of these, they take years to build up and must be well evidenced and documented. It is worth collecting all potential evidence from non-HE users of your research just in case you need it in several years time. The University system for doing this is **VW Impact Tracker**, which you can use to capture all sorts of evidence file types. If your research does make an impact, and you are asked to prepare a case study, you will need this information then.
+
+## Doctoral College
+
+If you have an MPhil or PhD student, then they will be a member of the **Doctoral College**, who are responsible for administering all research postgraduates.
+
+PhD students have a *Director of Studies* (DoS, their main supervisor) and a Supervisory Team of at least one other academic, who does not have to be in the School. You have to attend **training for supervisors and examiners** before you can supervise a student or be internal examiner for a thesis - everyone is expected to take this training shortly after appointment. Only people who have examined at least two vivas at Plymouth can be an internal examiner without also needing a Chair, so we have a **s** **preadsheet of examining experience** to record it.
+
+**Gradbook** is an online system run by the Doctoral College where you access and record information about your research students. The Doctoral College require you to log regular meetings with your students using Gradbook, and to sign off formal progression through the programme including:
+
+* RDC.1 (Project Plan) after 6 months (Full Time) or 12 months (Part Time)
+
+* RDC.2 (Confirmation of Route to transfer from MPhil to PhD) before 18 months (FT) or 24 months (PT).
+
+* RDC.3 (Examination Arrangements - appointment of examiners), at least four months before submision.
+
+The RDC.1 and RDC.2 need to be reviewed by an Expert Commentator (another academic from within the school). You can choose who, in liaison with the PG Tutor. We usually expect the Expert Commentator to be appointed as Internal Examiner, as they will be familiar with the student's work. Other schools expressly forbid it.
+
+The viva also needs an *External Examiner* **,** and these need to be approved by a committee, hence the need to complete RDC.3 in good time. The rules about who can be an external are in the **Research Degrees Handbook**. If the Externals has not previously externalled the viva will need a Chair (usually the PG Tutor), as will students who are employed by the University as research staff, who will need to have two Externals and a Chair.
+
+Funding for PhD students is highly competitive but these are the main routes:
+1) TARAs - the school employs several *Teaching and Research Associates* (TARAs) on five year 0.7FTE contracts to support workshops and marking and these are required to register for a Part Time PhD with fees waived. There are usually two vacancies a year for these posts.
+2) SWDTP - as a member of the ESRC funded **South West Doctoral Training Partnership**, we can apply for full 3-year ESRC studentships. We have a good record of obtaining one a year through this scheme.
+3) School/Faculty/University Studentships - depending upon the financial climate, the School tries to offer full-time studentships on terms equivalent to research council studentships each year. The Faculty and the University may also offer such schemes, and you will be emailed about these. We have a standing list of projects on an externally visible **School Phd Advert** web page. You can add your own project here by emailing the PG Tutor.
+4) Overseas state funded studetns - you may receive a direct email from an overseas student who says they have funding. Do not just bin these, reply politely and foward them to the PG Tutor, who will do some quality control and then circulate them if they are plausible. When you see one circulated, please do consider whether you could offer the student supervision. We have had several strong students in the past.
+5) Students employed by projects - we are allowed to include PhD studentships on ESRC project grant applications; Research Assistants employed on grants can also register for part-time PhDs if the School agrees to waive their fees (the employment usually needs to be for at least three years).
+6) Self funded students - these do occur, but students will need to pay registration fees; for example people in employment who want a PhD can enrol as part-time students.
+
+To apply, students will have to complete an online application form that includes a **project proposal.** They should work on this with a prospective supervisor (i.e., you). Applications are shortlisted by a committee of senior academics in the School, and then candidates are invited for interview.
+
+## School Research Groups
+
+The school is not organised into formal groups, but staff create overlapping and dynamic groupings that everyone (including visitors, postgraduates, placement students, and often project students) is welcome to join. These usually meet every other week for a discussion group, and should maintain a Discourse post with a schedule of meetings so that everyone knows about them.
+
+[Links to research groups](#research-groups)

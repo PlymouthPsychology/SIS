@@ -26,70 +26,54 @@ Projects that pay for staff time generate a surplus for the University, some of 
 
 ## Doing Research
 
+### Applying for ethics
+
 Before collecting any research data, whether or not you expect it to be published, you need to obtain **ethical approval**. For Staff and Postgraduates, there is an **Online System** to complete which will send your application to the Faculty Ethical Committee. It can take several weeks for scrutiny and changes are often requested, so apply in good time. Note that for any research conducted away from the University, a letter from the host organisation giving permission is required.
 
-The open platform **OpenSesame** has been adopted to support computer based experimentation, and the school has a **JATOS** server to run experiments online (ask Tech Office for an account). For online surveys, the school currently has a paid-for **Qualtrics** aaccount and there is an active user group for it, although future funding is not certain. You can obtain a login from **PsyResources**. Some staff might have *SurveyMonkey* accounts funded by research grants and if you ask around they may share access. The University prefers **JISC-Online Surveys** and you can obtain an account from the IT Support Portal (aka TIS).
-
-To recruit general public for online studies, we have a **Prolific** account, but funding is required (can be applied for within the school).
-
-We use the **SONA Participation** system to run paid and 'course-credit' research within the school. All stage 1 and stage 2 undergraduates have to take part in 11 hours of research participation (15 mins = 0.5 points, 30 mins=1 point or £5, etc), and stage 4 use the points they collect in stage 2 to recruit other students for their dissertations. MSc students are given 40 points; PhD students and Staff can ask for 100 points at the start of each academic year, and further points will be distributed in Semester 2. Points have to be collected/used by a date near the end of Semester 2, so plan your research accordingly. SONA is run by the **pointsadmin** technical officer. You will get emails from pointsadmin when points are available to ask for, but if you have an urgent need, ask anyway.
-
-Paid studies can also be run using SONA, provided you have funds, and participants can receive Amazon Vouchers automatically at a rate of £5 per half hour (minimum £5). To pay people cash or using vouchers, some form filling is required - do not use your own money and attempt to claim it back. We currently have a systen in place to provide digital **Amazon vouchers**, but older forms are available in **Getting Money to pay Participants,** along with cost approval forms for postgraduate studies. Participants receiving benefits shoukld be given a vesion of the **Letter for participants receiving benefits** to show to the JobCentre.
+### Getting help running research
 
 You can get Undergraduates to help run your research in four ways: by signing them up each Easter as next year's Stage 4 or Stage 5 *Dissertation Students*; by taking them on as *Research Apprentices*; by recruiting them as an *Internal Placement Student*; or by employing them for a few weeks during the summer vacation on an *Internship*. Apprentices can be recruited for half a day a week for ten weeks (nominally, this is flexible) by placing an **advert** and then **registering** them. They are usually Stage 1 or 2 students who volunteer in exchange for an insight into research techniques before doing their project, but some Stage 4 or 5 students also volunteer to broaden their experience. You can ask for extra Participation Points as an incentive to take them on (but they do not get any other resoucres). **Summer Employment** can be done through the research assisstance scheme and they can earn £200 for up to ten weeks. Details should be given to you by email towards the end of Semester 2. Placement Students take a whole year out of their course to do work experience with you and are a more serious commitment. You will be treated like an external palcement host. You must advertise, interview, and appoint via the placement office, between January and Easter. The placement runs for 36 weeks between September and June. Places are limited so liaise with the School's Internal Placements Tutor.
 
 The Library collection and online journals is accessible through **Primo** (and should be , so our access is recorded and journals seen as highly used). We have access to the **Scopus** and **Web of Science** databases. As people did not use Primo, we no longer have subscriber access to APA journals, so you will have to scour Google Scholar for illicitly uploaded PDFs.
 
-### Open Science
+#### Summer Internships for students
 
-The School is committed to **Open Science**, and encourages all research to be preregistered, with materials, data and analysis scripts posted online in a persistent repository. The Univeristy maintains an **Open Science Blog,** and a **Data Policy**, and there is also a **School Policy**. There is a guide on **how to do open science**, and links to the **Zenodo.org** and **Open Science Framework**repositories for sharing plans and data.The Doctoral College have provided a very good **Guide to Data Management** (a plan is required for ethical approval)
+We can pay students a bursary (as ‘financial assistance’) rather than wages because:
 
-The School uses **R for statistical analysis,** and support materials are provided, but *SPSS* is also available on managed computers and for download from the IT Work-at-home site (although provision of annual licence updates is routinely late and apparently confidential).
+1. The scheme is not internship or employment.
 
-## On publication
+2. The scheme is an enhanced learning opportunity for students who have demonstrated a significant aptitude in subject areas.
 
-For the REF we must make all papers accessible online within a short period following acceptance (not publication). There are two steps to follow:
-1) add a record to **Symplectic Elements** so that the University knows about your publication and it appears on your staff web page (see entry at end of Management column).
-2) Upload a PDF 'authors' copy' of your manuscript to the **University repository PEARL**.
+3. The learning opportunity allows the student to practise in a live working environment whilst under supervision.
 
-Once a paper is published, Symplectic Elements will find it and either automatically update your manual record with the pubication details, or leave it in a Pending folder for you to 'Claim' as yours. It may also find others by similarly named authors who are not you, which you can Reject. If you have followed the guidelines and already created a manual record on acceptance, then you can merge the record of the published paper with your earlier manual one.
+4. The student must produce written results either during or at the termination of the project.
 
-## REF Information
+5. The scheme takes place during the vacation period and the maximum attendance will be ten weeks.
 
-Our REF submission is in Unit of Assessment 4 (Psychology, Psychiatry and Neuroscience). The School's REF co-ordinator* will regularly ask you to rate your own papers, and to select a subset of these for consideration for the School's submission. You may be asked to read and rate colleagues' papers. It is in all of our interests to publish as many papers as we can that might be seen by REF Panels as 4-star; 3-stars are also useful, nothing else is useful for REF.
+6. The £200 weekly payment is as per guidance from the British Psychological Society and is to be paid as financial assistance to enable the student to remain in Plymouth to take part in the scheme.
 
-Impact Case Studies are also important and although we can only subit a few of these, they take years to build up and must be well evidenced and documented. It is worth collecting all potential evidence from non-HE users of your research just in case you need it in several years time. The University system for doing this is **VW Impact Tracker**, which you can use to capture all sorts of evidence file types. If your research does make an impact, and you are asked to prepare a case study, you will need this information then.
+The payments will be processed through P2P in Finance by completing Request for Payment forms (RFP) – see link below. Information required will be student name, number, bank details and reason for payment - to be presented as **Undergraduate Research Assistance Payment**. These payments will be made at the start and at the end of the scheme rather than weekly.
 
-## Doctoral College
+Important points for potential supervisors, to satisfy the above requirements:
 
-If you have an MPhil or PhD student, then they will be a member of the **Doctoral College**, who are responsible for administering all research postgraduates.
+* 1. Students should be paid in two lump sums
+* 2. Supervisors and students should agree a set of learning outcomes before the placement begins, to be included in the report…
+* 3. They should write a report on their work, to be read and commented on by the supervisor and sent to AHoS for Research at the end of the period of research.
+* 4. The scheme is open to students at the end of stage 2, stage 3 if they have been on placement, and stage 4 if they are progressing to stage 5 on the MPsych programme. Students who have completed an undergraduate degree and are progressing straight onto a higher degree (MSc or full-time PhD), with only the academic summer holiday in between, also qualify.
+* 5. All students should be made aware that this opportunity is potentially available. We will do this by advertising it as a possible outcome of successful research apprenticeships (JA action).
 
-PhD students have a *Director of Studies* (DoS, their main supervisor) and a Supervisory Team of at least one other academic, who does not have to be in the School. You have to attend **training for supervisors and examiners** before you can supervise a student or be internal examiner for a thesis - everyone is expected to take this training shortly after appointment. Only people who have examined at least two vivas at Plymouth can be an internal examiner without also needing a Chair, so we have a **s** **preadsheet of examining experience** to record it.
+[Link to the RFP form to use](https://liveplymouthac.sharepoint.com/:x:/r/sites/SchoolofPsychologyStaff/Shared%20Documents/General/sis/files/Payment%20Request%20Form.xlsx?d=w51c9a1805cbe4b5bb2dd1116001b907d&csf=1&web=1&e=5rrIS9)
+Send to the School Office who will check it is correct before you send to payments.
 
-**Gradbook** is an online system run by the Doctoral College where you access and record information about your research students. The Doctoral College require you to log regular meetings with your students using Gradbook, and to sign off formal progression through the programme including:
+Now if you want to pay someone for work, so with taxes etc. you will need to raise another type of contract, and then the person to contact about tax, etc is Rachel Edwards
 
-* RDC.1 (Project Plan) after 6 months (Full Time) or 12 months (Part Time)
+**Compensation and Benefits (Payroll) Advisor**
 
-* RDC.2 (Confirmation of Route to transfer from MPhil to PhD) before 18 months (FT) or 24 months (PT).
+Talent & Organisational Development|Plymouth University|17a Portland Villas|Drake Circus|Plymouth|PL4 8AA +44 (0)1752 588188 [rjedwards@plymouth.ac.uk](mailto:%7Crjedwards@plymouth.ac.uk)
 
-* RDC.3 (Examination Arrangements - appointment of examiners), at least four months before submision.
 
-The RDC.1 and RDC.2 need to be reviewed by an Expert Commentator (another academic from within the school). You can choose who, in liaison with the PG Tutor. We usually expect the Expert Commentator to be appointed as Internal Examiner, as they will be familiar with the student's work. Other schools expressly forbid it.
+### Designing experiments
 
-The viva also needs an *External Examiner* **,** and these need to be approved by a committee, hence the need to complete RDC.3 in good time. The rules about who can be an external are in the **Research Degrees Handbook**. If the Externals has not previously externalled the viva will need a Chair (usually the PG Tutor), as will students who are employed by the University as research staff, who will need to have two Externals and a Chair.
+The open platform **OpenSesame** has been adopted to support computer based experimentation, and the school has a **JATOS** server to run experiments online (ask Tech Office for an account). For online surveys, the school currently has a paid-for **Qualtrics** aaccount and there is an active user group for it, although future funding is not certain. You can obtain a login from **PsyResources**. Some staff might have *SurveyMonkey* accounts funded by research grants and if you ask around they may share access. The University prefers **JISC-Online Surveys** and you can obtain an account from the IT Support Portal (aka TIS).
 
-Funding for PhD students is highly competitive but these are the main routes:
-1) TARAs - the school employs several *Teaching and Research Associates* (TARAs) on five year 0.7FTE contracts to support workshops and marking and these are required to register for a Part Time PhD with fees waived. There are usually two vacancies a year for these posts.
-2) SWDTP - as a member of the ESRC funded **South West Doctoral Training Partnership**, we can apply for full 3-year ESRC studentships. We have a good record of obtaining one a year through this scheme.
-3) School/Faculty/University Studentships - depending upon the financial climate, the School tries to offer full-time studentships on terms equivalent to research council studentships each year. The Faculty and the University may also offer such schemes, and you will be emailed about these. We have a standing list of projects on an externally visible **School Phd Advert** web page. You can add your own project here by emailing the PG Tutor.
-4) Overseas state funded studetns - you may receive a direct email from an overseas student who says they have funding. Do not just bin these, reply politely and foward them to the PG Tutor, who will do some quality control and then circulate them if they are plausible. When you see one circulated, please do consider whether you could offer the student supervision. We have had several strong students in the past.
-5) Students employed by projects - we are allowed to include PhD studentships on ESRC project grant applications; Research Assistants employed on grants can also register for part-time PhDs if the School agrees to waive their fees (the employment usually needs to be for at least three years).
-6) Self funded students - these do occur, but students will need to pay registration fees; for example people in employment who want a PhD can enrol as part-time students.
 
-To apply, students will have to complete an online application form that includes a **project proposal.** They should work on this with a prospective supervisor (i.e., you). Applications are shortlisted by a committee of senior academics in the School, and then candidates are invited for interview.
-
-## School Research Groups
-
-The school is not organised into formal groups, but staff create overlapping and dynamic groupings that everyone (including visitors, postgraduates, placement students, and often project students) is welcome to join. These usually meet every other week for a discussion group, and should maintain a Discourse post with a schedule of meetings so that everyone knows about them.
-
-[Links to research groups](#research-groups)

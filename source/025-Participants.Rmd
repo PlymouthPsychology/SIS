@@ -1,4 +1,15 @@
-# Paying participants
+### Recruiting participants
+
+To recruit general public for online studies, we have a **Prolific** account, but funding is required (can be applied for within the school).
+
+See links above for [more information on Prolific](#doing-research)
+
+
+We use the **SONA Participation** system to run paid and 'course-credit' research within the school. All stage 1 and stage 2 undergraduates have to take part in 11 hours of research participation (15 mins = 0.5 points, 30 mins=1 point or £5, etc), and stage 4 use the points they collect in stage 2 to recruit other students for their dissertations. MSc students are given 40 points; PhD students and Staff can ask for 100 points at the start of each academic year, and further points will be distributed in Semester 2. Points have to be collected/used by a date near the end of Semester 2, so plan your research accordingly. SONA is run by the **pointsadmin** technical officer. You will get emails from pointsadmin when points are available to ask for, but if you have an urgent need, ask anyway.
+
+Paid studies can also be run using SONA, provided you have funds, and participants can receive Amazon Vouchers automatically at a rate of £5 per half hour (minimum £5). To pay people cash or using vouchers, some form filling is required - do not use your own money and attempt to claim it back. We currently have a systen in place to provide digital **Amazon vouchers**, but older forms are available in **Getting Money to pay Participants,** along with cost approval forms for postgraduate studies. Participants receiving benefits shoukld be given a vesion of the **Letter for participants receiving benefits** to show to the JobCentre.
+
+### Paying participants
 Participant payments can be obtained through the following process in the School of Psychology. The school's standard rate is £10 / hour, £5 / 30 minutes. 
 
 If you are using the [Paid Pool SONA system](https://uopsopp.sona-systems.com) then you can send people Amazon vouchers - either pay everyone £5 for 30 minutes (minimum duration for vouchers) or offer a prize draw for shorter studies (e.g., chance to win £25). You can find your participants' email addresses from the Download Participant list; send these to the tech office with details of the account to pay from.
@@ -7,13 +18,13 @@ If you are using Prolific to recruit people online, [they recommend at least £9
 
 * Use these Cash advance and Costings forms (email Fiona.trembath@plymouth.ac.uk for advice on their use)
 
-## Using vouchers to pay participants
+#### Using vouchers to pay participants
 
 Important: We will only be purchasing vouchers in increments of £5, so: Study length 0 – 30 mins = £5, 31 – 60 mins = £10 ...etc...
 
 For prize draw type rewards whole numbers divisible by 5 only please.
 
-### Part 1 Source of Finance
+##### Source of Finance
 
 Are you looking to use the General School Research funds to pay for the vouchers?
 If yes: Email Caroline Floccia for approval in the first instance.
@@ -24,7 +35,7 @@ Bench fee spending will require an authorised costing form available from the Sc
 
 Note: If you do not have sufficient funds to gather the required number of participants please contact Caroline Floccia as general funds may be available as a top up.
 
-### Part 2 Study Set Up
+##### Study Set Up
 
 Are you using the SONA participation system to recruit?
 
@@ -39,7 +50,7 @@ If yes: Email the School Technical Manager directly to request the purchase of v
 
 Info: The voucher codes will be emailed back to you in a spreadsheet for you to distribute manually as required.
 
-### Any other queries?
+##### Any other queries?
 
 Email the School Technical Manager directly.
 
@@ -58,7 +69,7 @@ Email the School Technical Manager directly.
 *When your participants sign, ensure they cannot see the details of other participants, to comply with GDPR. Always keep records of participant signatures for reconciling in a locked cabinet, and at the end of your study return to Fiona Trembath for secure keeping.
 * Any unspent funds must be returned to Fiona and reconciled against your budget.
 
-## Other resources
+#### Other resources
 
 - [Welfare Benefits Jobcentre Letter.docx|attachment](https://liveplymouthac.sharepoint.com/:w:/r/sites/SchoolofPsychologyStaff/Shared%20Documents/Research/Doing%20research/Welfare%20Benefits%20Jobcentre%20Letter.docx?web=1)
 
