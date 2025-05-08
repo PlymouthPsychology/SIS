@@ -49,6 +49,7 @@
 -   [Advice and guidance for staff when dealing with assessment offences.pdf\|attachment](https://liveplymouthac.sharepoint.com/:b:/r/sites/SchoolofPsychologyStaff/Shared%20Documents/Teaching/General%20information%20for%20staff/Assessment%20Information/Advice%20and%20guidance%20for%20staff%20when%20dealing%20with%20assessment%20offences_2020.pdf?web=1)
 -   Shiny apps for marking and moderation:
     -   [Combining a students marks on several assignments into a single mark](https://jonmay.shinyapps.io/CombineR/)
+    -   <a href="https://jonmay.shinyapps.io/CombineR/" target="_blank">Combining a students marks on several assignments into a single mark</a>
     -   [Statistical Moderation (single Q, many Markers)](http://jonmay.shinyapps.io/ModeratoR)
     -   [Compare Stage 4 options with other assessments](http://jonmay.shinyapps.io/Stage4OptionChecker)
     -   [Exam mark collator](https://jonmay.shinyapps.io/ExamineR/)
