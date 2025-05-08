@@ -10,6 +10,7 @@ output:
     toc_depth: 3
     number_sections: true
     theme: lumen
+    pandoc_args: ["--lua-filter=filters/open-in-new-tab.lua"]
 date: "Last edited on `r format(Sys.time(), '%d %B, %Y')`"
 ---
 
