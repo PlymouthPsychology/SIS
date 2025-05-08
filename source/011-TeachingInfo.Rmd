@@ -63,10 +63,17 @@ If you are inviting an external speaker into a lecture or other activity, you ha
 
 ## PsyLab and tutorials {#psylab-tutorials}
 
-Most modules are supported by Experiential Learning ([**PsyLab**](https://psy.plymouth.ac.uk/psylab)) activities and small group tutorials.
-Each PsyLab activity has a deadline to encourage students to complete them in good time, but if students miss these they can ask tutors to give extensions within the PsyLab activities pages.
-**NB - If students do not complete enough PsyLab activities they Fail the module regardless of coursework and exam marks**.
+Some modules are supported by Experiential Learning ([**PsyLab**](https://psy.plymouth.ac.uk/psylab)) activities and small group tutorials.
 
+### PsyLab
+PsyLab consists of short online tasks, often (but not always) completed in conjunction with a workshop. They are assessed, and there are two models of assessment: credit-bearing (Stage 1 modules in 2024/25) and pass/fail (Stage 2 and 4 modules in 2024/25).
+
+Credit-bearing (PSYC421 and PSYC424): The PsyLab component of the module is worth a pecentage of the module, with each task contributing to the mark. The tasks must be completed by a deadline, as with coursework. Students who miss this deadline can apply for Extenuating Circumstances. Tutors don't need to do anything.
+
+Pass/fail (PSYC513, PSYC514, PSYC519, PSYC520, PSYC605): The PsyLab component is pass/fail, so students must complete a certain number of tasks to pass the module. That number varies, and is specified on the module's DLE page. There is a final deadline by which students must complete their activities, but some activities also have closing dates on the system. These might be spaced out throughout the module, to encourage continuous engagement. Closing dates are NOT formal assessment deadlines, and tasks can be re-opened by tutors without a need for Extenuating Circumstances. The exception to this is when the formal assessment deadline at the end of the module has been reached. To re-open a task, visit the site (link above). 
+**NB - If students do not complete enough PsyLab activities they fail the module regardless of coursework and exam marks**.
+
+### Tutorials
 Each new student is assigned to a tutorial group of 6-8 students in September of their first year, and this group usually stays with the same tutor throughout the programme.
 Most staff are assigned two new stage 1 tutorial groups each year, so have six groups in total, and between 30-40 tutees.
 The tutorial schedule and **tutorial allocations** are overseen by the Senior Tutor, using a system called GROups Of Tutees (GROOT).
